@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20379,
+    "title": "একটি কমিটিতে 4 জন পুরুষ সদস্য ও 3 জন মহিলা সদস্য আছে। শুধু পুরুষ অথবা শুধু মহিলা সদস্য নিয়ে 2 সদস্য বিশিষ্ট কতগুলো উপকমিটি গঠন করা যাবে।",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-12T09:29:44.000000Z",
+    "updated_at": "2025-04-12T09:29:44.000000Z",
+    "tags": "83,58",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 81341,
+        "question_id": "20379",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "6",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-12T09:29:44.000000Z",
+        "updated_at": "2025-04-12T09:29:44.000000Z"
+      },
+      {
+        "id": 81342,
+        "question_id": "20379",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "9",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>শুধু পুরুষ নিয়ে 2 সদস্যের কমিটি সংখ্যা =<sup> </sup><sup style=\"color: rgb(2, 8, 23);\">4</sup>C<sub>2 </sub> </p><p>এবং শুধু মহিলা নিয়ে 2 সদস্যের কমিটি সংখ্যা = <sup>'3</sup>C<sub>2</sub></p>",
+        "created_at": "2025-04-12T09:29:44.000000Z",
+        "updated_at": "2025-04-12T09:29:44.000000Z"
+      },
+      {
+        "id": 81343,
+        "question_id": "20379",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "12",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-12T09:29:44.000000Z",
+        "updated_at": "2025-04-12T09:29:44.000000Z"
+      },
+      {
+        "id": 81344,
+        "question_id": "20379",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "15",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-12T09:29:44.000000Z",
+        "updated_at": "2025-04-12T09:29:44.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 20277,
+      "question_id": "20379",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3067",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "343",
+      "topic_id": "763",
+      "sub_topic_id": "214",
+      "created_at": "2025-04-12T09:29:44.000000Z",
+      "updated_at": "2025-04-12T09:29:44.000000Z"
+    }
+  }
+]

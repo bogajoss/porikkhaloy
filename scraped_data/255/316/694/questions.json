@@ -1,0 +1,79 @@
+[
+  {
+    "id": 19928,
+    "title": "বাংলাদেশ সশস্ত্র বাহিনীর প্রধান কে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T10:36:42.000000Z",
+    "updated_at": "2025-04-10T10:36:42.000000Z",
+    "tags": "66,60",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79532,
+        "question_id": "19928",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "প্রধানমন্ত্রী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:36:42.000000Z",
+        "updated_at": "2025-04-10T10:36:42.000000Z"
+      },
+      {
+        "id": 79533,
+        "question_id": "19928",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "অর্থমন্ত্রী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:36:42.000000Z",
+        "updated_at": "2025-04-10T10:36:42.000000Z"
+      },
+      {
+        "id": 79534,
+        "question_id": "19928",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "রাষ্ট্রপতি",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "বাংলাদেশের সশস্ত্র বাহিনীর সর্বাধিনায়ক রাষ্ট্রপতি।   বাংলাদেশে সর্বাধিনায়ক হল রাষ্ট্রপতি,  যদিও প্রতিরক্ষা বাহিনীর সকল নির্বাহী ক্ষমতা ও দায়িত্ব প্রধানমন্ত্রীর হাতে ন্যস্ত।  তবে একমাত্র ব্যতিক্রম ছিলেন প্রথম সর্বাধিনায়ক জেনারেল এম. এ. জি. ওসমানী,  যিনি ১৯৭১ সালে বাংলাদেশের স্বাধীনতা যুদ্ধের সময় বাংলাদেশের সশস্ত্র বাহিনীর প্রধান সেনাপতি ছিলেন।   স্বাধীনতার পর বাংলাদেশ সরকারের নির্দেশে তাকে তার দায়িত্বে পুনর্বহাল করা হয় যা ১৯৭২ সালে গেজেট আকারে প্রকাশিত হয়।  তিনি ৭ই এপ্রিল,  ১৯৭২ সালে অবসর গ্রহণ করেন এবং রাষ্ট্রপতির নিকট সকল ক্ষমতা ও দায়িত্ব হস্তান্তর করে পদত্যাগ করেন।",
+        "created_at": "2025-04-10T10:36:42.000000Z",
+        "updated_at": "2025-04-10T10:36:42.000000Z"
+      },
+      {
+        "id": 79535,
+        "question_id": "19928",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "বাণিজ্যমন্ত্রী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:36:42.000000Z",
+        "updated_at": "2025-04-10T10:36:42.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19826,
+      "question_id": "19928",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "694",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T10:36:42.000000Z",
+      "updated_at": "2025-04-10T10:36:42.000000Z"
+    }
+  }
+]

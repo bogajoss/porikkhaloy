@@ -1,0 +1,156 @@
+[
+  {
+    "id": 80857,
+    "title": "<p>cos<sup>2</sup> x (x ∈ R) এর বৃহত্তম এবং ক্ষুদ্রতম মান হচ্ছে যথাক্রমে-</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-20T10:49:31.000000Z",
+    "updated_at": "2025-12-20T10:49:31.000000Z",
+    "tags": "89,43",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 322951,
+        "question_id": "80857",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "0 এবং-1",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322952,
+        "question_id": "80857",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "1 এবং 0",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322953,
+        "question_id": "80857",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "1 এবং ∞",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322954,
+        "question_id": "80857",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "-1 এবং 1",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 80740,
+      "question_id": "80857",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "824",
+      "sub_topic_id": null,
+      "created_at": "2025-12-20T10:49:31.000000Z",
+      "updated_at": "2025-12-20T10:49:31.000000Z"
+    }
+  },
+  {
+    "id": 80857,
+    "title": "<p>cos<sup>2</sup> x (x ∈ R) এর বৃহত্তম এবং ক্ষুদ্রতম মান হচ্ছে যথাক্রমে-</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-20T10:49:31.000000Z",
+    "updated_at": "2025-12-20T10:49:31.000000Z",
+    "tags": "89,43",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 322951,
+        "question_id": "80857",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "0 এবং-1",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322952,
+        "question_id": "80857",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "1 এবং 0",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322953,
+        "question_id": "80857",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "1 এবং ∞",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      },
+      {
+        "id": 322954,
+        "question_id": "80857",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "-1 এবং 1",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-20T10:49:31.000000Z",
+        "updated_at": "2025-12-20T10:49:31.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 80740,
+      "question_id": "80857",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "824",
+      "sub_topic_id": null,
+      "created_at": "2025-12-20T10:49:31.000000Z",
+      "updated_at": "2025-12-20T10:49:31.000000Z"
+    }
+  }
+]

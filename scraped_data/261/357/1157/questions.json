@@ -1,0 +1,156 @@
+[
+  {
+    "id": 82373,
+    "title": "<p>5 গ্রাম একটি বুলেট 160 সেন্টিমিটার লম্বা একটি রাইফেলের মুখ হতে 800 সেন্টিমিটার/সেকেন্ড বেগে নির্গত হয়। নলটি অতিক্রম করতে বুলেটের কত সময় লাগবে?</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-25T14:49:27.000000Z",
+    "updated_at": "2025-12-25T14:49:27.000000Z",
+    "tags": "89,91,44",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 329482,
+        "question_id": "82373",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329483,
+        "question_id": "82373",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "1.4 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329484,
+        "question_id": "82373",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "0.1 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329485,
+        "question_id": "82373",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>0.4 সেকেন্ড</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><span class=\"ql-formula\" data-value=\"t=\\frac{2s}{v}=\\frac{2\\times160}{800}=0.4\\text{ sec}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>s</mi></mrow><mi>v</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><mn>160</mn></mrow><mn>800</mn></mfrac><mo>=</mo><mn>0.4</mn><mtext>&nbsp;sec</mtext></mrow><annotation encoding=\"application/x-tex\">t=\\frac{2s}{v}=\\frac{2\\times160}{800}=0.4\\text{ sec}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6151em;\"></span><span class=\"mord mathnormal\">t</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.1901em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0359em;\">v</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mord mathnormal mtight\">s</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.1901em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">800</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mbin mtight\">×</span><span class=\"mord mtight\">160</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">0.4</span><span class=\"mord text\"><span class=\"mord\">&nbsp;sec</span></span></span></span></span></span>﻿</span> </p>",
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82256,
+      "question_id": "82373",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "261",
+      "lesson_id": "357",
+      "topic_id": "1157",
+      "sub_topic_id": null,
+      "created_at": "2025-12-25T14:49:27.000000Z",
+      "updated_at": "2025-12-25T14:49:27.000000Z"
+    }
+  },
+  {
+    "id": 82373,
+    "title": "<p>5 গ্রাম একটি বুলেট 160 সেন্টিমিটার লম্বা একটি রাইফেলের মুখ হতে 800 সেন্টিমিটার/সেকেন্ড বেগে নির্গত হয়। নলটি অতিক্রম করতে বুলেটের কত সময় লাগবে?</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-25T14:49:27.000000Z",
+    "updated_at": "2025-12-25T14:49:27.000000Z",
+    "tags": "89,91,44",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 329482,
+        "question_id": "82373",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329483,
+        "question_id": "82373",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "1.4 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329484,
+        "question_id": "82373",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "0.1 সেকেন্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      },
+      {
+        "id": 329485,
+        "question_id": "82373",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>0.4 সেকেন্ড</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><span class=\"ql-formula\" data-value=\"t=\\frac{2s}{v}=\\frac{2\\times160}{800}=0.4\\text{ sec}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>s</mi></mrow><mi>v</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>×</mo><mn>160</mn></mrow><mn>800</mn></mfrac><mo>=</mo><mn>0.4</mn><mtext>&nbsp;sec</mtext></mrow><annotation encoding=\"application/x-tex\">t=\\frac{2s}{v}=\\frac{2\\times160}{800}=0.4\\text{ sec}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6151em;\"></span><span class=\"mord mathnormal\">t</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.1901em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0359em;\">v</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mord mathnormal mtight\">s</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.1901em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">800</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span><span class=\"mbin mtight\">×</span><span class=\"mord mtight\">160</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">0.4</span><span class=\"mord text\"><span class=\"mord\">&nbsp;sec</span></span></span></span></span></span>﻿</span> </p>",
+        "created_at": "2025-12-25T14:49:27.000000Z",
+        "updated_at": "2025-12-25T14:49:27.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82256,
+      "question_id": "82373",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "261",
+      "lesson_id": "357",
+      "topic_id": "1157",
+      "sub_topic_id": null,
+      "created_at": "2025-12-25T14:49:27.000000Z",
+      "updated_at": "2025-12-25T14:49:27.000000Z"
+    }
+  }
+]

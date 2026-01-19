@@ -1,0 +1,156 @@
+[
+  {
+    "id": 19703,
+    "title": "'আইভরি' ব্ল্যাক কি?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T03:20:13.000000Z",
+    "updated_at": "2025-04-10T03:20:13.000000Z",
+    "tags": "64,53",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78631,
+        "question_id": "19703",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "রক্ত কয়লা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:20:13.000000Z",
+        "updated_at": "2025-04-10T03:20:13.000000Z"
+      },
+      {
+        "id": 78632,
+        "question_id": "19703",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সক্রিয় কয়লা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:20:13.000000Z",
+        "updated_at": "2025-04-10T03:20:13.000000Z"
+      },
+      {
+        "id": 78633,
+        "question_id": "19703",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "কালো রঙ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:20:13.000000Z",
+        "updated_at": "2025-04-10T03:20:13.000000Z"
+      },
+      {
+        "id": 78634,
+        "question_id": "19703",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "অস্থিজ কয়লা",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "আইভরি ব্ল্যাক এর অন্য নামগুলো হলো - Bone Charcoal,Bone Black,Animal Charcoal।এটির ব্যাবহার সাধারণত \"ধাতব পদার্থ অপসারন ও পানি শুদ্ধকরন\"।",
+        "created_at": "2025-04-10T03:20:13.000000Z",
+        "updated_at": "2025-04-10T03:20:13.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19601,
+      "question_id": "19703",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "662",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T03:20:13.000000Z",
+      "updated_at": "2025-04-10T03:20:13.000000Z"
+    }
+  },
+  {
+    "id": 19507,
+    "title": "মোঘল আমলে প্রাদেশিক রাজধানী দেওয়ানী ও ফৌজদারী মামলার নিষ্পত্তিকারী প্রধান বিচারপতির উপাধি নিম্নের কোনটি ছিল?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T16:40:09.000000Z",
+    "updated_at": "2025-04-09T16:40:09.000000Z",
+    "tags": "64,49",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 77846,
+        "question_id": "19507",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ফতুয়ায়ে আলমগিরি",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:40:09.000000Z",
+        "updated_at": "2025-04-09T16:40:09.000000Z"
+      },
+      {
+        "id": 77847,
+        "question_id": "19507",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "মুসলিম ওলামা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:40:09.000000Z",
+        "updated_at": "2025-04-09T16:40:09.000000Z"
+      },
+      {
+        "id": 77848,
+        "question_id": "19507",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "কাজীউল কুজাত",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "কাজীউল কুজাত ছিলেন অর্থ প্রধান বিচারপতি।মুঘল আমলে এই উপাধি চালু ছিলো।",
+        "created_at": "2025-04-09T16:40:09.000000Z",
+        "updated_at": "2025-04-09T16:40:09.000000Z"
+      },
+      {
+        "id": 77849,
+        "question_id": "19507",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "কাজী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:40:09.000000Z",
+        "updated_at": "2025-04-09T16:40:09.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19405,
+      "question_id": "19507",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "662",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T16:40:09.000000Z",
+      "updated_at": "2025-04-09T16:40:09.000000Z"
+    }
+  }
+]

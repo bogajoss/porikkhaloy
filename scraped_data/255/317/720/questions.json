@@ -1,0 +1,233 @@
+[
+  {
+    "id": 18699,
+    "title": "'নাসাউ\" কোন দ্বীপপুঞ্জের রাজধানী",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T16:31:45.000000Z",
+    "updated_at": "2025-04-08T16:31:45.000000Z",
+    "tags": "64,45",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 74596,
+        "question_id": "18699",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ফিজি",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:31:45.000000Z",
+        "updated_at": "2025-04-08T16:31:45.000000Z"
+      },
+      {
+        "id": 74597,
+        "question_id": "18699",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "নিকোবর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:31:45.000000Z",
+        "updated_at": "2025-04-08T16:31:45.000000Z"
+      },
+      {
+        "id": 74598,
+        "question_id": "18699",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "মাদাগাস্কার",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:31:45.000000Z",
+        "updated_at": "2025-04-08T16:31:45.000000Z"
+      },
+      {
+        "id": 74599,
+        "question_id": "18699",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "বাহামা",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-08T16:31:45.000000Z",
+        "updated_at": "2025-04-08T16:31:45.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18597,
+      "question_id": "18699",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "720",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T16:31:45.000000Z",
+      "updated_at": "2025-04-08T16:31:45.000000Z"
+    }
+  },
+  {
+    "id": 18615,
+    "title": "ক্যারিবিয়ান সাগরের একটি দ্বীপের পশ্চিম অর্ধেকে হাইতি অবস্থিত। পূর্ব অর্ধেকে যে দেশটি, সেটির নাম-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T15:48:57.000000Z",
+    "updated_at": "2025-04-08T15:48:57.000000Z",
+    "tags": "65,41",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 74257,
+        "question_id": "18615",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হন্ডুরাস",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:48:57.000000Z",
+        "updated_at": "2025-04-08T15:48:57.000000Z"
+      },
+      {
+        "id": 74258,
+        "question_id": "18615",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "জামাইকা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:48:57.000000Z",
+        "updated_at": "2025-04-08T15:48:57.000000Z"
+      },
+      {
+        "id": 74259,
+        "question_id": "18615",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "ডোমিনিকান প্রজাতন্ত্র",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:48:57.000000Z",
+        "updated_at": "2025-04-08T15:48:57.000000Z"
+      },
+      {
+        "id": 74260,
+        "question_id": "18615",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ত্রিনিদাদ",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-08T15:48:57.000000Z",
+        "updated_at": "2025-04-08T15:48:57.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18513,
+      "question_id": "18615",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "720",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T15:48:57.000000Z",
+      "updated_at": "2025-04-08T15:48:57.000000Z"
+    }
+  },
+  {
+    "id": 18592,
+    "title": "গ্যালাপাগোস দ্বীপপুঞ্জ যে দেশে অন্তর্ভুক্ত সেই দেশের রাজধানীর নাম কী?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T15:36:59.000000Z",
+    "updated_at": "2025-04-08T15:36:59.000000Z",
+    "tags": "65,40",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 74165,
+        "question_id": "18592",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ক্যারাকাস",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:36:59.000000Z",
+        "updated_at": "2025-04-08T15:36:59.000000Z"
+      },
+      {
+        "id": 74166,
+        "question_id": "18592",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সান্টিয়াগো",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-08T15:36:59.000000Z",
+        "updated_at": "2025-04-08T15:36:59.000000Z"
+      },
+      {
+        "id": 74167,
+        "question_id": "18592",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "লাপাজ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:36:59.000000Z",
+        "updated_at": "2025-04-08T15:36:59.000000Z"
+      },
+      {
+        "id": 74168,
+        "question_id": "18592",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "কুইটো",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T15:36:59.000000Z",
+        "updated_at": "2025-04-08T15:36:59.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18490,
+      "question_id": "18592",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "720",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T15:36:59.000000Z",
+      "updated_at": "2025-04-08T15:36:59.000000Z"
+    }
+  }
+]

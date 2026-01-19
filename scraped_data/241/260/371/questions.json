@@ -1,0 +1,79 @@
+[
+  {
+    "id": 24246,
+    "title": "প্রাসের বিচলন পথ একটি -",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T15:20:36.000000Z",
+    "updated_at": "2025-04-18T15:20:36.000000Z",
+    "tags": "82,55,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 96953,
+        "question_id": "24246",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "সরল রেখা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T15:20:36.000000Z",
+        "updated_at": "2025-04-18T15:20:36.000000Z"
+      },
+      {
+        "id": 96954,
+        "question_id": "24246",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "প্যারাবোলা",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "প্রাসের বিচলন পথ একটি প্যারাবোলা",
+        "created_at": "2025-04-18T15:20:36.000000Z",
+        "updated_at": "2025-04-18T15:20:36.000000Z"
+      },
+      {
+        "id": 96955,
+        "question_id": "24246",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "হাইপ্যারাবোলা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T15:20:36.000000Z",
+        "updated_at": "2025-04-18T15:20:36.000000Z"
+      },
+      {
+        "id": 96956,
+        "question_id": "24246",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "বৃত্তরেখা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T15:20:36.000000Z",
+        "updated_at": "2025-04-18T15:20:36.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24144,
+      "question_id": "24246",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3072",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "260",
+      "topic_id": "371",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T15:20:36.000000Z",
+      "updated_at": "2025-04-18T15:20:36.000000Z"
+    }
+  }
+]

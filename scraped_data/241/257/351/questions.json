@@ -1,0 +1,156 @@
+[
+  {
+    "id": 25472,
+    "title": "কোন তীব্রতা লেভেলকে কানের শ্রুতির শুরু বলে ?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-20T09:31:15.000000Z",
+    "updated_at": "2025-04-20T09:31:15.000000Z",
+    "tags": "73,57,92,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 101990,
+        "question_id": "25472",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "1 dB",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:31:15.000000Z",
+        "updated_at": "2025-04-20T09:31:15.000000Z"
+      },
+      {
+        "id": 101991,
+        "question_id": "25472",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "0 dB",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2023-06-20/f697ffc4-15e3-42a3-a2cc-c9fe5fa69be7-image.png\"></p>",
+        "created_at": "2025-04-20T09:31:15.000000Z",
+        "updated_at": "2025-04-20T09:31:15.000000Z"
+      },
+      {
+        "id": 101992,
+        "question_id": "25472",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "10 dB",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:31:15.000000Z",
+        "updated_at": "2025-04-20T09:31:15.000000Z"
+      },
+      {
+        "id": 101993,
+        "question_id": "25472",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "100 dB",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:31:15.000000Z",
+        "updated_at": "2025-04-20T09:31:15.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 25370,
+      "question_id": "25472",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3074",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "257",
+      "topic_id": "351",
+      "sub_topic_id": null,
+      "created_at": "2025-04-20T09:31:15.000000Z",
+      "updated_at": "2025-04-20T09:31:15.000000Z"
+    }
+  },
+  {
+    "id": 24328,
+    "title": "পীড়নের মাত্রা কোনটি?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T16:32:35.000000Z",
+    "updated_at": "2025-04-18T16:32:35.000000Z",
+    "tags": "81,54,91,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 97283,
+        "question_id": "24328",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>ML<sup>-1</sup>T<sup>-2</sup></p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>পীড়নের মাত্রীয় সংকেত হল [ML<sup>-1</sup>T<sup>-2</sup>]। অর্থাৎ চাপের মাত্রীয় সংকেত ও পীড়নের মাত্রীয় সংকেত একই হয়।</p>",
+        "created_at": "2025-04-18T16:32:35.000000Z",
+        "updated_at": "2025-04-18T16:32:35.000000Z"
+      },
+      {
+        "id": 97284,
+        "question_id": "24328",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>M<sup>-1</sup>L1T<sup>-1</sup></p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:32:35.000000Z",
+        "updated_at": "2025-04-18T16:32:35.000000Z"
+      },
+      {
+        "id": 97285,
+        "question_id": "24328",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>MLT<sup>-2</sup></p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:32:35.000000Z",
+        "updated_at": "2025-04-18T16:32:35.000000Z"
+      },
+      {
+        "id": 97286,
+        "question_id": "24328",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>ML<sup>-2</sup>T<sup>-2</sup></p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:32:35.000000Z",
+        "updated_at": "2025-04-18T16:32:35.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24226,
+      "question_id": "24328",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3071",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "257",
+      "topic_id": "351",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T16:32:35.000000Z",
+      "updated_at": "2025-04-18T16:32:35.000000Z"
+    }
+  }
+]

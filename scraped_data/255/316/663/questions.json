@@ -1,0 +1,233 @@
+[
+  {
+    "id": 19954,
+    "title": "ইউরোপীয় বণিকদের মধ্যে প্রথম বাংলায় কারা এসেছিলেন?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T10:59:59.000000Z",
+    "updated_at": "2025-04-10T10:59:59.000000Z",
+    "tags": "64,62",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79636,
+        "question_id": "19954",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ফরাসি",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:59:59.000000Z",
+        "updated_at": "2025-04-10T10:59:59.000000Z"
+      },
+      {
+        "id": 79637,
+        "question_id": "19954",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "পর্তুগিজ",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>সঠিক উত্তরের পক্ষে যুক্তি: ইউরোপীয় বণিকদের মধ্যে সর্বপ্রথম পর্তুগিজদের বাংলায় আগমন ঘটে- ১৫১৬ সালে।</p><p>ভারতবর্ষে মূলত পাঁচটি দেশের বণিকদের বাণিজ্যের জন্য আগমন ঘটেছিল:</p><p>• পর্তুগিজদের আগমন</p><p>• ওলন্দাজদের আগমন</p><p>• ইংরেজদের আগমন</p><p>• দিনেমারদের আগমন</p><p>• ফরাসিদের আগমন</p>",
+        "created_at": "2025-04-10T10:59:59.000000Z",
+        "updated_at": "2025-04-10T10:59:59.000000Z"
+      },
+      {
+        "id": 79638,
+        "question_id": "19954",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "ব্রিটিশ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:59:59.000000Z",
+        "updated_at": "2025-04-10T10:59:59.000000Z"
+      },
+      {
+        "id": 79639,
+        "question_id": "19954",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "স্প্যানিয়ার্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:59:59.000000Z",
+        "updated_at": "2025-04-10T10:59:59.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19852,
+      "question_id": "19954",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "663",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T10:59:59.000000Z",
+      "updated_at": "2025-04-10T10:59:59.000000Z"
+    }
+  },
+  {
+    "id": 19706,
+    "title": "ভারত উপমহাদেশের শেষ গভর্নর জেনারেল কে ছিলেন?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T03:22:48.000000Z",
+    "updated_at": "2025-04-10T03:22:48.000000Z",
+    "tags": "64,54",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78643,
+        "question_id": "19706",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "লর্ড ওয়াভেল",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:22:48.000000Z",
+        "updated_at": "2025-04-10T03:22:48.000000Z"
+      },
+      {
+        "id": 78644,
+        "question_id": "19706",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "লর্ড কার্জন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:22:48.000000Z",
+        "updated_at": "2025-04-10T03:22:48.000000Z"
+      },
+      {
+        "id": 78645,
+        "question_id": "19706",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "লর্ড মিন্টো",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:22:48.000000Z",
+        "updated_at": "2025-04-10T03:22:48.000000Z"
+      },
+      {
+        "id": 78646,
+        "question_id": "19706",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "লর্ড মাউন্ট ব্যাটেন",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><strong>important তথ্য:</strong></p><p>ভারত উপমহাদেশের শেষ গভর্ণর জেনারেল- লর্ড মাউন্ট ব্যাটেন।</p><p>প্রথম গভর্ণর জেনারেল- লর্ড ক্যানিং।</p><p>উপমহাদেশে প্রথম স্বাধীনতা সংগ্রাম হয়- ১৮৫৭ সালে।</p><p>বঙ্গভঙ্গ করেন- লর্ড কার্জন।</p><p>বঙ্গবঙ্গ ব্যবস্থা রহিত করেন- লর্ড হার্ডিঞ্জ।</p>",
+        "created_at": "2025-04-10T03:22:48.000000Z",
+        "updated_at": "2025-04-10T03:22:48.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19604,
+      "question_id": "19706",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "663",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T03:22:48.000000Z",
+      "updated_at": "2025-04-10T03:22:48.000000Z"
+    }
+  },
+  {
+    "id": 19422,
+    "title": "বঙ্গ ভারত উপমহাদেশে প্রথম পুলিশ ব্যবস্থা কে চালু করেন?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T16:08:55.000000Z",
+    "updated_at": "2025-04-09T16:08:55.000000Z",
+    "tags": "64,47",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 77506,
+        "question_id": "19422",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "সম্রাট আকবর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:08:55.000000Z",
+        "updated_at": "2025-04-09T16:08:55.000000Z"
+      },
+      {
+        "id": 77507,
+        "question_id": "19422",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সম্রাট শাহজাহান",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:08:55.000000Z",
+        "updated_at": "2025-04-09T16:08:55.000000Z"
+      },
+      {
+        "id": 77508,
+        "question_id": "19422",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "লর্ড ক্যানিং",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>ভারতীয় উপমহাদেশে প্রথম পুলিশি ব্যবস্থা চালু করেন- লর্ড ক্যানিং\n</p><p><span style=\"color: rgb(2, 8, 23);\">প্রথম রাজস্ব বোর্ড স্থাপন করেন- ওয়ারেন হেস্টিংস।</span></p><p>প্রথম দ্বৈতশাসন ব্যবস্থা চালু করেন- লর্ড ক্লাইভ।</p><p>প্রথম কাগজের মুদ্রা চালু করেন- লর্ড ক্যানিং।</p><p>প্রথম রেল যোগাযোগ চালু করেন- লর্ড ডালহৌসি।</p>",
+        "created_at": "2025-04-09T16:08:55.000000Z",
+        "updated_at": "2025-04-09T16:08:55.000000Z"
+      },
+      {
+        "id": 77509,
+        "question_id": "19422",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "মি. বার্ড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:08:55.000000Z",
+        "updated_at": "2025-04-09T16:08:55.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19320,
+      "question_id": "19422",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "663",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T16:08:55.000000Z",
+      "updated_at": "2025-04-09T16:08:55.000000Z"
+    }
+  }
+]

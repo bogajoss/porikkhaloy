@@ -1,0 +1,233 @@
+[
+  {
+    "id": 19942,
+    "title": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল এর বিচারালয় কোথায় অবস্থিত?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T10:51:32.000000Z",
+    "updated_at": "2025-04-10T10:51:32.000000Z",
+    "tags": "65,61",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79588,
+        "question_id": "19942",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "শিক্ষা ভবন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:51:32.000000Z",
+        "updated_at": "2025-04-10T10:51:32.000000Z"
+      },
+      {
+        "id": 79589,
+        "question_id": "19942",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "বিচার প্রশাসন ট্রেইনিং সেন্টার",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:51:32.000000Z",
+        "updated_at": "2025-04-10T10:51:32.000000Z"
+      },
+      {
+        "id": 79590,
+        "question_id": "19942",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "কার্জন হল",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:51:32.000000Z",
+        "updated_at": "2025-04-10T10:51:32.000000Z"
+      },
+      {
+        "id": 79591,
+        "question_id": "19942",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "হাইকোর্ট ভবন",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-10T10:51:32.000000Z",
+        "updated_at": "2025-04-10T10:51:32.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19840,
+      "question_id": "19942",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "674",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T10:51:32.000000Z",
+      "updated_at": "2025-04-10T10:51:32.000000Z"
+    }
+  },
+  {
+    "id": 19937,
+    "title": "বাংলাদেশের সংবিধানের মূলনীতি কয়টি?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T10:49:00.000000Z",
+    "updated_at": "2025-04-10T10:49:00.000000Z",
+    "tags": "64,61",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79568,
+        "question_id": "19937",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "চার",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতা-এই চারটি বিষয়কে রাষ্ট্র পরিচালনার জন্য বাংলাদেশের সংবিধানের মূলনীতি হিসাবে গ্রহণ করা হয়েছে।",
+        "created_at": "2025-04-10T10:49:00.000000Z",
+        "updated_at": "2025-04-10T10:49:00.000000Z"
+      },
+      {
+        "id": 79569,
+        "question_id": "19937",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "আট",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:49:00.000000Z",
+        "updated_at": "2025-04-10T10:49:00.000000Z"
+      },
+      {
+        "id": 79570,
+        "question_id": "19937",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "দশ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:49:00.000000Z",
+        "updated_at": "2025-04-10T10:49:00.000000Z"
+      },
+      {
+        "id": 79571,
+        "question_id": "19937",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ছয়",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:49:00.000000Z",
+        "updated_at": "2025-04-10T10:49:00.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19835,
+      "question_id": "19937",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "674",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T10:49:00.000000Z",
+      "updated_at": "2025-04-10T10:49:00.000000Z"
+    }
+  },
+  {
+    "id": 19897,
+    "title": "স্বাধীন বাংলাদেশের সাংবিধানিক ঘোষণা কোন তারিখে হয়েছিল?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T09:46:28.000000Z",
+    "updated_at": "2025-04-10T09:46:28.000000Z",
+    "tags": "65,59",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79408,
+        "question_id": "19897",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "১৭ এপ্রিল ১৯৭১",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T09:46:28.000000Z",
+        "updated_at": "2025-04-10T09:46:28.000000Z"
+      },
+      {
+        "id": 79409,
+        "question_id": "19897",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "২৬ মার্চ ১৯৭১",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>১৯৭১ সালের ২৬ মার্চ প্রথম প্রহরে জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমান স্বাধীনতার ঘোষণা দেন; যা পরিবর্তীতে সংবিধানের ষষ্ঠ তফসিলে ১৫০ (২) অনুচ্ছেদে সংবিধানের ১৫ তম সংশোধনীর মাধ্যমে অন্তর্ভুক্ত হয়।</p><p><strong>Note:</strong> </p><p>→ স্বাধীনতার ঘোষণাপত্র রয়েছে যে দুটি দেশের- বাংলাদেশ ও যুক্তরাষ্ট্র</p><p>→ বঙ্গবন্ধু শেখ মুজিবুর রহমানকে গ্রেফতার করা হয়- ১৯৭১ সালের ২৫ মার্চ দিবাগত রাত দেড়টায়</p><p>মুজিবনগর সরকার গঠিত হয়- ১৯৭১ সালের ১০ এপ্রিল</p><p>→ বাংলাদেশের প্রথম অস্থায়ী সরকার শপথ নেয়- ১৭ এপ্রিল ১৯৭১</p><p>→ বাংলাদেশের প্রথম অস্থায়ী সরকার-এ যারা ছিলেন</p><p>• রাষ্ট্রপতি- বঙ্গবন্ধু শেখ মুজিবুর রহমান</p><p>• অস্থায়ী রাষ্ট্রপতি- সৈয়দ নজরুল ইসলাম</p><p>• প্রধান মন্ত্রী- তাজউদ্দিন আহমদ</p><p>• অর্থমন্ত্রী- এম মনসুর আলী</p><p>• পররাষ্ট্র ও আইনমন্ত্রী- খন্দকার মোস্তাক আহমদ</p><p>বাংলাদেশের অস্থায়ী সরকারের শপথ বাক্য পাঠ করান- অধ্যাপক ইউসুফ আলী</p><p>স্বাধীন বাংলা বেতারের জনপ্রিয় দুটি অনুষ্ঠানের নাম- চরমপত্র ও জল্লাদের দরবার</p><p>২৬ মার্চকে স্বাধীনতা দিবস হিসেবে ঘোষণা করা হয়- ১৯৮০ সালের ৩ অক্টোবর</p>",
+        "created_at": "2025-04-10T09:46:28.000000Z",
+        "updated_at": "2025-04-10T09:46:28.000000Z"
+      },
+      {
+        "id": 79410,
+        "question_id": "19897",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "১৬ ডিসেম্বর ১৯৭১",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T09:46:28.000000Z",
+        "updated_at": "2025-04-10T09:46:28.000000Z"
+      },
+      {
+        "id": 79411,
+        "question_id": "19897",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "৭ মার্চ ১৯৭১",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T09:46:28.000000Z",
+        "updated_at": "2025-04-10T09:46:28.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19795,
+      "question_id": "19897",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "674",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T09:46:28.000000Z",
+      "updated_at": "2025-04-10T09:46:28.000000Z"
+    }
+  }
+]

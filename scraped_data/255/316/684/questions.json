@@ -1,0 +1,156 @@
+[
+  {
+    "id": 19715,
+    "title": "বাংলাদেশের ইলিশ রক্ষায় কোনটি সর্বাধিক কার্যকরী?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T03:30:38.000000Z",
+    "updated_at": "2025-04-10T03:30:38.000000Z",
+    "tags": "64,56",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78679,
+        "question_id": "19715",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "কোস্ট গার্ডের তৎপরতা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:30:38.000000Z",
+        "updated_at": "2025-04-10T03:30:38.000000Z"
+      },
+      {
+        "id": 78680,
+        "question_id": "19715",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সমুদ্র জয়",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:30:38.000000Z",
+        "updated_at": "2025-04-10T03:30:38.000000Z"
+      },
+      {
+        "id": 78681,
+        "question_id": "19715",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "সংশ্লিষ্ট পক্ষের বোধদয়",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><strong style=\"color: rgb(2, 8, 23);\">সংশ্লিষ্ট পক্ষের বোধদয় না হলে কোনো পদক্ষেপ নিয়ে কোনো অপরাধ দমন সম্ভব নয়।</strong></p><p>বাংলাদেশের ইলিশ রক্ষায় 'সংশ্লিষ্ট পক্ষের বোধদয়' সবচেয়ে কার্যকরী ভূমিকা রাখতে পারে। ইলিশ বাংলাদেশের জাতীয় মাছ। এটি লবণাক্ত পানির মাছ। এ মাছ সাধারণত * মোহনাযুক্ত বড় নদী বা খালে ডিম ছাড়ে। অক্টোবর মাসের ১২-২২ তারিখ পর্যন্ত ইলিশ মাছ ধরা নিষিদ্ধ থাকে। কারণ এই সময়ে ইলিশ মাছ ডিম ছাড়ার জন্য নদীর মোহনায় আসে। এই সয়ম পোনা অবস্থায় ইলিশ রক্ষা করতে হলে অবশ্যই সংশ্লিষ্ট পক্ষকে তথা মাছধরা জেলে বা মাছ ব্যবসায়ীদেরকে সচেতন হতে হবে।</p><p>ইলিশ মাছের বৈজ্ঞানিক নাম- Tenvalosa ilisha.</p>",
+        "created_at": "2025-04-10T03:30:38.000000Z",
+        "updated_at": "2025-04-10T03:30:38.000000Z"
+      },
+      {
+        "id": 78682,
+        "question_id": "19715",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "চোরাচালান রোধ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:30:38.000000Z",
+        "updated_at": "2025-04-10T03:30:38.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19613,
+      "question_id": "19715",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "684",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T03:30:38.000000Z",
+      "updated_at": "2025-04-10T03:30:38.000000Z"
+    }
+  },
+  {
+    "id": 19641,
+    "title": "বাংলাদেশে সর্বপ্রথম প্রাকৃতিক গ্যাসক্ষেত্র আবিষ্কৃত হয় নিম্নে কোন স্থানে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T18:18:20.000000Z",
+    "updated_at": "2025-04-09T18:18:20.000000Z",
+    "tags": "64,52",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78382,
+        "question_id": "19641",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হরিপুর",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><strong>১৯৫৫ সালে সিলেটের হরিপুরে বাংলাদেশের প্রথম গ্যাস ক্ষেত্রটি আবিষ্কৃত হয়; যেখান থেকে ১৯৫৭ সালে গ্যাস উত্তোলন শুরু হয়। </strong></p><p>আরও জেনে নাও-</p><p>১৯৫১ সালে সুনামগঞ্জের ছাতকে গ্যাস ক্ষেত্র আবিষ্কৃত হয়।</p><p>১৯৬২ সালে সিলেটের কৈলাসটিলায় গ্যাস ক্ষেত্র আবিষ্কৃত হয়।</p><p>১৯৬২ সালে ব্রাহ্মণবাড়িয়ায় তিতাস গ্যাস ক্ষেত্র আবিষ্কৃত হয়।</p>",
+        "created_at": "2025-04-09T18:18:20.000000Z",
+        "updated_at": "2025-04-09T18:18:20.000000Z"
+      },
+      {
+        "id": 78383,
+        "question_id": "19641",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "কৈলাসটিলা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:18:20.000000Z",
+        "updated_at": "2025-04-09T18:18:20.000000Z"
+      },
+      {
+        "id": 78384,
+        "question_id": "19641",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "ছাতক",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:18:20.000000Z",
+        "updated_at": "2025-04-09T18:18:20.000000Z"
+      },
+      {
+        "id": 78385,
+        "question_id": "19641",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "তিতাস",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:18:20.000000Z",
+        "updated_at": "2025-04-09T18:18:20.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19539,
+      "question_id": "19641",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "684",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T18:18:20.000000Z",
+      "updated_at": "2025-04-09T18:18:20.000000Z"
+    }
+  }
+]

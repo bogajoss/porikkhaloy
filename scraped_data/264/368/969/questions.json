@@ -1,0 +1,156 @@
+[
+  {
+    "id": 82911,
+    "title": "\"শিশু খেলা করে\"-এখানে \"খেলা\" কোন কারকে কোন বিভক্তি?",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T16:45:59.000000Z",
+    "updated_at": "2025-12-28T16:45:59.000000Z",
+    "tags": "89,91,97,60",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 331812,
+        "question_id": "82911",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "কর্তায় শূণ্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331813,
+        "question_id": "82911",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "করণে শূন্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331814,
+        "question_id": "82911",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "কর্মে শূন্য",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> যাকে আশ্রয় করে কর্তা ক্রিয়া সম্পন্ন করে তাকে কর্মকারক বলে। এছাড়াও ক্রিয়াকে কী দ্বারা প্রশ্ন করলে যে উত্তর পাওয়া যায় তাই হচ্ছে কর্মকারক। যেমন: ঘোড়া <u>গাড়ি</u> টানে। এখানে ঘোড়া গাড়িকে আশ্রয় করে টানে। এরূপভাবে শিশু <u>খেলা</u> করে।</p>",
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331815,
+        "question_id": "82911",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সম্প্রদানে শূন্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82794,
+      "question_id": "82911",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "264",
+      "lesson_id": "368",
+      "topic_id": "969",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T16:46:00.000000Z",
+      "updated_at": "2025-12-28T16:46:00.000000Z"
+    }
+  },
+  {
+    "id": 82911,
+    "title": "\"শিশু খেলা করে\"-এখানে \"খেলা\" কোন কারকে কোন বিভক্তি?",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T16:45:59.000000Z",
+    "updated_at": "2025-12-28T16:45:59.000000Z",
+    "tags": "89,91,97,60",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 331812,
+        "question_id": "82911",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "কর্তায় শূণ্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331813,
+        "question_id": "82911",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "করণে শূন্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331814,
+        "question_id": "82911",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "কর্মে শূন্য",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> যাকে আশ্রয় করে কর্তা ক্রিয়া সম্পন্ন করে তাকে কর্মকারক বলে। এছাড়াও ক্রিয়াকে কী দ্বারা প্রশ্ন করলে যে উত্তর পাওয়া যায় তাই হচ্ছে কর্মকারক। যেমন: ঘোড়া <u>গাড়ি</u> টানে। এখানে ঘোড়া গাড়িকে আশ্রয় করে টানে। এরূপভাবে শিশু <u>খেলা</u> করে।</p>",
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      },
+      {
+        "id": 331815,
+        "question_id": "82911",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সম্প্রদানে শূন্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T16:46:00.000000Z",
+        "updated_at": "2025-12-28T16:46:00.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82794,
+      "question_id": "82911",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "264",
+      "lesson_id": "368",
+      "topic_id": "969",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T16:46:00.000000Z",
+      "updated_at": "2025-12-28T16:46:00.000000Z"
+    }
+  }
+]

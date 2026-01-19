@@ -1,0 +1,79 @@
+[
+  {
+    "id": 40418,
+    "title": "কোনটি বিপরীত ম্যাট্রিক্সের বৈশিষ্ট্য নয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-14T03:47:02.000000Z",
+    "updated_at": "2025-06-14T03:47:02.000000Z",
+    "tags": "111,118",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 161673,
+        "question_id": "40418",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>(4<sup>-1</sup>)<sup>-1</sup> = A</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:47:02.000000Z",
+        "updated_at": "2025-06-14T03:47:02.000000Z"
+      },
+      {
+        "id": 161674,
+        "question_id": "40418",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>(AB)<sup>-1</sup> = A<sup>-1</sup>B<sup>-1</sup></p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-06-14T03:47:02.000000Z",
+        "updated_at": "2025-06-14T03:47:02.000000Z"
+      },
+      {
+        "id": 161675,
+        "question_id": "40418",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>(A<sup>T</sup>)<sup>-1</sup> = (A<sup>-1</sup>)<sup>T</sup>D</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:47:02.000000Z",
+        "updated_at": "2025-06-14T03:47:02.000000Z"
+      },
+      {
+        "id": 161676,
+        "question_id": "40418",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>(BA)A<sup>-1</sup> = B</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:47:02.000000Z",
+        "updated_at": "2025-06-14T03:47:02.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40314,
+      "question_id": "40418",
+      "section_id": "221",
+      "exam_type_id": "1072",
+      "exam_sub_type_id": "3079",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "339",
+      "topic_id": "1053",
+      "sub_topic_id": "217",
+      "created_at": "2025-06-14T03:47:02.000000Z",
+      "updated_at": "2025-06-14T03:47:02.000000Z"
+    }
+  }
+]

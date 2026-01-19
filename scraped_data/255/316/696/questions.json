@@ -1,0 +1,156 @@
+[
+  {
+    "id": 19462,
+    "title": "চলচিত্র সৃষ্টির মূল জনক কে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T16:24:23.000000Z",
+    "updated_at": "2025-04-09T16:24:23.000000Z",
+    "tags": "64,48",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 77666,
+        "question_id": "19462",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "জেকুইস রিডেট",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:24:23.000000Z",
+        "updated_at": "2025-04-09T16:24:23.000000Z"
+      },
+      {
+        "id": 77667,
+        "question_id": "19462",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "আবু আলী আল হাসান",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "চলচ্চিত্র সৃষ্টির মূল সূত্রের জনক আরবীয় মুসলিম বিজ্ঞানী আবু আলী আল হাসান। বিশ্বের প্রথম চলচ্চিত্র নির্মিত হয় ১৮৮৫ সালে। ফ্রান্সের লুমিয়ার ও আগস্ট ভ্রাতৃদ্বয় নির্মাণ করেন প্রথম চলচ্চিত্র।",
+        "created_at": "2025-04-09T16:24:23.000000Z",
+        "updated_at": "2025-04-09T16:24:23.000000Z"
+      },
+      {
+        "id": 77668,
+        "question_id": "19462",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "হেনরি ল্যাংলোয়া",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:24:23.000000Z",
+        "updated_at": "2025-04-09T16:24:23.000000Z"
+      },
+      {
+        "id": 77669,
+        "question_id": "19462",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ব্ল্যাক মারিয়া স্টুডিও",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:24:23.000000Z",
+        "updated_at": "2025-04-09T16:24:23.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19360,
+      "question_id": "19462",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "696",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T16:24:23.000000Z",
+      "updated_at": "2025-04-09T16:24:23.000000Z"
+    }
+  },
+  {
+    "id": 18892,
+    "title": "বাংলা কার্টুন সিরিজ \"মীনা\" কার সৃষ্টি?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T18:37:35.000000Z",
+    "updated_at": "2025-04-08T18:37:35.000000Z",
+    "tags": "64,54",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 75375,
+        "question_id": "18892",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হুমায়ুন আহমেদ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T18:37:35.000000Z",
+        "updated_at": "2025-04-08T18:37:35.000000Z"
+      },
+      {
+        "id": 75376,
+        "question_id": "18892",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "মোস্তফা মনোয়ার",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><strong>কিছু important তথ্য:</strong></p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>'ঠাকুর মার ঝুলি' এর লেখক- দক্ষিণারঞ্জন মিত্র মজুমদার।</p><p>→ 'সূর্যদীঘল বাড়ি' চলচ্চিত্রের পরিচালক- শেখ নিয়ামত শাকের।</p><p>→ বাংলা কার্টুন সিরিজ' মীনা-র নির্মাতা- মুস্তফা মনোয়ার।</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>'মাটির ময়না' ছবির পরিচালক- তারেক মাসুদ।</p><p>→ বাংলাদেশের শ্রেষ্ঠ কার্টুনিস্ট- রফিকুন্নবী</p>",
+        "created_at": "2025-04-08T18:37:35.000000Z",
+        "updated_at": "2025-04-08T18:37:35.000000Z"
+      },
+      {
+        "id": 75377,
+        "question_id": "18892",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "রফিকুন্নবী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T18:37:35.000000Z",
+        "updated_at": "2025-04-08T18:37:35.000000Z"
+      },
+      {
+        "id": 75378,
+        "question_id": "18892",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "কাইউম চৌধুরী",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T18:37:35.000000Z",
+        "updated_at": "2025-04-08T18:37:35.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18790,
+      "question_id": "18892",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "696",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T18:37:35.000000Z",
+      "updated_at": "2025-04-08T18:37:35.000000Z"
+    }
+  }
+]

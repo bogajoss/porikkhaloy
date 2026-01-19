@@ -1,0 +1,233 @@
+[
+  {
+    "id": 40670,
+    "title": "নিচের কোনটি মৌলিক একক?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-16T03:59:20.000000Z",
+    "updated_at": "2025-06-16T03:59:20.000000Z",
+    "tags": "87,56,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 162681,
+        "question_id": "40670",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "Coulomb",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:59:20.000000Z",
+        "updated_at": "2025-06-16T03:59:20.000000Z"
+      },
+      {
+        "id": 162682,
+        "question_id": "40670",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "Ampere",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "মৌলিক রাশিসমূহ 7 টি। দৈর্ঘ্য, ভর, সময়, তাপমাত্রা, তড়িৎপ্রবাহ, দীপন ক্ষমতা, পদার্থের পরিমাণ।",
+        "created_at": "2025-06-16T03:59:20.000000Z",
+        "updated_at": "2025-06-16T03:59:20.000000Z"
+      },
+      {
+        "id": 162683,
+        "question_id": "40670",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "Volt",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:59:20.000000Z",
+        "updated_at": "2025-06-16T03:59:20.000000Z"
+      },
+      {
+        "id": 162684,
+        "question_id": "40670",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "Ohm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:59:20.000000Z",
+        "updated_at": "2025-06-16T03:59:20.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40566,
+      "question_id": "40670",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3055",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "1030",
+      "sub_topic_id": null,
+      "created_at": "2025-06-16T03:59:20.000000Z",
+      "updated_at": "2025-06-16T03:59:20.000000Z"
+    }
+  },
+  {
+    "id": 40669,
+    "title": "একটি স্লাইড কার্লিপাস প্রধান স্কেলের ৩৯ ভাগ ভার্নিয়ার স্কেলের ৪০ ভাগের সমান। প্রধান স্কেলের এক ভাগের মান 1.00mm ভার্নিয়ার স্কেলের ধ্রুব কত?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-16T03:58:38.000000Z",
+    "updated_at": "2025-06-16T03:58:38.000000Z",
+    "tags": "87,41,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 162677,
+        "question_id": "40669",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "0.011mm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:58:38.000000Z",
+        "updated_at": "2025-06-16T03:58:38.000000Z"
+      },
+      {
+        "id": 162678,
+        "question_id": "40669",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "0.025mm",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>প্রধান স্কেলের 39 ভাগ ভার্ণিয়ার স্কেলের 40 ভাগের সমান হলে, ভার্নিয়ার স্কেলের এক ভাগের মান হবে,</p><p>(40 ভাগের মান) / (39 ভাগের মান)</p><p>= (40<span style=\"color: rgb(0, 0, 0);\">×</span>1.00 mm) / 39</p><p>= 1.025 mm</p><p>অতএব, ভার্নিয়ার ধ্রুব হবে,</p><p>1.025 mm - 1.00 mm</p><p>= 0.025 mm</p>",
+        "created_at": "2025-06-16T03:58:38.000000Z",
+        "updated_at": "2025-06-16T03:58:38.000000Z"
+      },
+      {
+        "id": 162679,
+        "question_id": "40669",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "0.1mm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:58:38.000000Z",
+        "updated_at": "2025-06-16T03:58:38.000000Z"
+      },
+      {
+        "id": 162680,
+        "question_id": "40669",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "None",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:58:38.000000Z",
+        "updated_at": "2025-06-16T03:58:38.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40565,
+      "question_id": "40669",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3055",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "1030",
+      "sub_topic_id": null,
+      "created_at": "2025-06-16T03:58:38.000000Z",
+      "updated_at": "2025-06-16T03:58:38.000000Z"
+    }
+  },
+  {
+    "id": 40662,
+    "title": "একটি স্ক্রু-গজের বৃত্তাকার স্কেলটি 100 ভাগে বিভক্ত । এটি একবার পূর্ণ আবর্তন করলে রৈখিক স্কেলের 0.5 মিলিমিটার সরে যায় । স্ক্রুগজটির লঘিষ্ঠ ধ্রুবক হবে-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-16T03:45:18.000000Z",
+    "updated_at": "2025-06-16T03:45:18.000000Z",
+    "tags": "87,36,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 162649,
+        "question_id": "40662",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>5×10<sup>-3</sup> mm</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>লঘিষ্ঠ ধ্রুবক = 0.5/100 = 5 × 10 <sup>-3 </sup>mm</p>",
+        "created_at": "2025-06-16T03:45:18.000000Z",
+        "updated_at": "2025-06-16T03:45:18.000000Z"
+      },
+      {
+        "id": 162650,
+        "question_id": "40662",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "0.01 cm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:45:18.000000Z",
+        "updated_at": "2025-06-16T03:45:18.000000Z"
+      },
+      {
+        "id": 162651,
+        "question_id": "40662",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "0.002 mm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:45:18.000000Z",
+        "updated_at": "2025-06-16T03:45:18.000000Z"
+      },
+      {
+        "id": 162652,
+        "question_id": "40662",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "0.05 cm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-16T03:45:18.000000Z",
+        "updated_at": "2025-06-16T03:45:18.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40558,
+      "question_id": "40662",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3055",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "1030",
+      "sub_topic_id": null,
+      "created_at": "2025-06-16T03:45:18.000000Z",
+      "updated_at": "2025-06-16T03:45:18.000000Z"
+    }
+  }
+]

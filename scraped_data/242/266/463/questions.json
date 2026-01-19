@@ -1,0 +1,79 @@
+[
+  {
+    "id": 26410,
+    "title": "চোখের কোন ত্রুটির জন্য দূরের জিনিস ভালোভাবে দেখা যায় না কিন্তু কাছের জিনিস স্পষ্ট দেখা যায়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-21T13:46:48.000000Z",
+    "updated_at": "2025-04-21T13:46:48.000000Z",
+    "tags": "82,54,91,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 105746,
+        "question_id": "26410",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "বিষম দৃষ্টি",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-21T13:46:48.000000Z",
+        "updated_at": "2025-04-21T13:46:48.000000Z"
+      },
+      {
+        "id": 105747,
+        "question_id": "26410",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "মাইওপিয়া",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-21T13:46:48.000000Z",
+        "updated_at": "2025-04-21T13:46:48.000000Z"
+      },
+      {
+        "id": 105748,
+        "question_id": "26410",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "প্রেসবাইপিয়া",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-21T13:46:48.000000Z",
+        "updated_at": "2025-04-21T13:46:48.000000Z"
+      },
+      {
+        "id": 105749,
+        "question_id": "26410",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "চালশে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-21T13:46:48.000000Z",
+        "updated_at": "2025-04-21T13:46:48.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 26308,
+      "question_id": "26410",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3072",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "242",
+      "lesson_id": "266",
+      "topic_id": "463",
+      "sub_topic_id": null,
+      "created_at": "2025-04-21T13:46:48.000000Z",
+      "updated_at": "2025-04-21T13:46:48.000000Z"
+    }
+  }
+]

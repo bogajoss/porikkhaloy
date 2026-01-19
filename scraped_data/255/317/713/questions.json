@@ -1,0 +1,79 @@
+[
+  {
+    "id": 40592,
+    "title": "গাজায় সাম্প্রতিক কালের সংঘর্ষ কবে শুরু হয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-15T12:52:47.000000Z",
+    "updated_at": "2025-06-15T12:52:47.000000Z",
+    "tags": "64,118",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 162369,
+        "question_id": "40592",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ডিসেম্বর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-15T12:52:47.000000Z",
+        "updated_at": "2025-06-15T12:52:47.000000Z"
+      },
+      {
+        "id": 162370,
+        "question_id": "40592",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "অক্টোবর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "৭ অক্টোবর ২০২৩ দক্ষিণ ইজরাইলের নেগেভ মরুভূমিতে চলমান সংগীত উৎসব সুপারনোভা ফেস্টিভ্যালে 'অপারেশন আল আকসা ফ্লাড' নামে সামরিক অভিযান পরিচালনা করে ফিলিস্তিনের মুক্তিকামী সংগঠন 'হামাস'। ৮ অক্টোবর ২০২৩ হামাসের অভিযানের প্রেক্ষাপটে \"অপারেশন আয়রন সোর্ড” নামে পাল্টা অভিযান পরিচালনা করে যুদ্ধ ঘোষণা করে ইসরাইল। শুরু হয় ফিলিস্তিন ও ইসরাইলের মধ্যে রক্তক্ষয়ী সংঘর্ষ।",
+        "created_at": "2025-06-15T12:52:47.000000Z",
+        "updated_at": "2025-06-15T12:52:47.000000Z"
+      },
+      {
+        "id": 162371,
+        "question_id": "40592",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "সেপ্টেম্বর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-15T12:52:47.000000Z",
+        "updated_at": "2025-06-15T12:52:47.000000Z"
+      },
+      {
+        "id": 162372,
+        "question_id": "40592",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "নভেম্বর ২০২৪",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-15T12:52:47.000000Z",
+        "updated_at": "2025-06-15T12:52:47.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40488,
+      "question_id": "40592",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": "3086",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "713",
+      "sub_topic_id": null,
+      "created_at": "2025-06-15T12:52:47.000000Z",
+      "updated_at": "2025-06-15T12:52:47.000000Z"
+    }
+  }
+]

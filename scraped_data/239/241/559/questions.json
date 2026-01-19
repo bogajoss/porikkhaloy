@@ -1,0 +1,79 @@
+[
+  {
+    "id": 10334,
+    "title": "ল্যাবরেটরিতে কাজ করার সময় ব্রোমিনে হাত পুড়লে নিচের কোনটি ব্যবহার করা উচিত?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-01-07T04:25:54.000000Z",
+    "updated_at": "2025-01-07T04:25:54.000000Z",
+    "tags": "18",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 41187,
+        "question_id": "10334",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p><span style=\"background-color: transparent;\">দুর্বল NH</span><sub style=\"background-color: transparent;\">4</sub><span style=\"background-color: transparent;\">OH</span></p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-01-07T04:25:54.000000Z",
+        "updated_at": "2025-01-07T04:25:54.000000Z"
+      },
+      {
+        "id": 41188,
+        "question_id": "10334",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "গ্লিসারিন",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-01-07T04:25:54.000000Z",
+        "updated_at": "2025-01-07T04:25:54.000000Z"
+      },
+      {
+        "id": 41189,
+        "question_id": "10334",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "ইথানোয়িক এসিড",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-01-07T04:25:54.000000Z",
+        "updated_at": "2025-01-07T04:25:54.000000Z"
+      },
+      {
+        "id": 41190,
+        "question_id": "10334",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ক্লোরিন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-01-07T04:25:54.000000Z",
+        "updated_at": "2025-01-07T04:25:54.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 10240,
+      "question_id": "10334",
+      "section_id": "221",
+      "exam_type_id": "1062",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "239",
+      "lesson_id": "241",
+      "topic_id": "559",
+      "sub_topic_id": null,
+      "created_at": "2025-01-07T04:25:54.000000Z",
+      "updated_at": "2025-01-07T04:25:54.000000Z"
+    }
+  }
+]

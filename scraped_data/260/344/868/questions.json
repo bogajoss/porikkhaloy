@@ -1,0 +1,156 @@
+[
+  {
+    "id": 50749,
+    "title": "sin(4x + 1) এর পর্যায় কোনটি",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-17T09:38:31.000000Z",
+    "updated_at": "2025-07-17T09:38:31.000000Z",
+    "tags": "88,63,93,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 202571,
+        "question_id": "50749",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2π",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202572,
+        "question_id": "50749",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "4π",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202573,
+        "question_id": "50749",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "π/2",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202574,
+        "question_id": "50749",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "π/2-1/4",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 50645,
+      "question_id": "50749",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "868",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-17T09:38:31.000000Z",
+      "updated_at": "2025-07-17T09:38:31.000000Z"
+    }
+  },
+  {
+    "id": 50749,
+    "title": "sin(4x + 1) এর পর্যায় কোনটি",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-17T09:38:31.000000Z",
+    "updated_at": "2025-07-17T09:38:31.000000Z",
+    "tags": "88,63,93,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 202571,
+        "question_id": "50749",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2π",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202572,
+        "question_id": "50749",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "4π",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202573,
+        "question_id": "50749",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "π/2",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      },
+      {
+        "id": 202574,
+        "question_id": "50749",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "π/2-1/4",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:38:31.000000Z",
+        "updated_at": "2025-07-17T09:38:31.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 50645,
+      "question_id": "50749",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "868",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-17T09:38:31.000000Z",
+      "updated_at": "2025-07-17T09:38:31.000000Z"
+    }
+  }
+]

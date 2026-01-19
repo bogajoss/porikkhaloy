@@ -1,0 +1,156 @@
+[
+  {
+    "id": 19917,
+    "title": "বাংলাদেশে কখন প্রথম জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T10:00:21.000000Z",
+    "updated_at": "2025-04-10T10:00:21.000000Z",
+    "tags": "64,60",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79488,
+        "question_id": "19917",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "৬ এপ্রিল, ১৯৭৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:00:21.000000Z",
+        "updated_at": "2025-04-10T10:00:21.000000Z"
+      },
+      {
+        "id": 79489,
+        "question_id": "19917",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "৭ মার্চ, ১৯৭৩",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "প্রথম জাতীয় সংসদ নির্বাচন, বাংলাদেশে ৭ই মার্চ ১৯৭৩ সালে অনুষ্ঠিত হয়।",
+        "created_at": "2025-04-10T10:00:21.000000Z",
+        "updated_at": "2025-04-10T10:00:21.000000Z"
+      },
+      {
+        "id": 79490,
+        "question_id": "19917",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "২৮ ফেব্রুয়ারি, ১৯৭৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:00:21.000000Z",
+        "updated_at": "2025-04-10T10:00:21.000000Z"
+      },
+      {
+        "id": 79491,
+        "question_id": "19917",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "১৯ এপ্রিল, ১৯৭৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T10:00:21.000000Z",
+        "updated_at": "2025-04-10T10:00:21.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19815,
+      "question_id": "19917",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "676",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T10:00:21.000000Z",
+      "updated_at": "2025-04-10T10:00:21.000000Z"
+    }
+  },
+  {
+    "id": 19718,
+    "title": "২০১৬ সালে প্রেসিডেন্ট নির্বাচন কবে হয়েছিল?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T03:33:34.000000Z",
+    "updated_at": "2025-04-10T03:33:34.000000Z",
+    "tags": "65,56",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78691,
+        "question_id": "19718",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "৮ই নভেম্বর",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-10T03:33:34.000000Z",
+        "updated_at": "2025-04-10T03:33:34.000000Z"
+      },
+      {
+        "id": 78692,
+        "question_id": "19718",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "১২ ই নভেম্বর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:33:34.000000Z",
+        "updated_at": "2025-04-10T03:33:34.000000Z"
+      },
+      {
+        "id": 78693,
+        "question_id": "19718",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "১২ ই ডিসেম্বর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:33:34.000000Z",
+        "updated_at": "2025-04-10T03:33:34.000000Z"
+      },
+      {
+        "id": 78694,
+        "question_id": "19718",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "৩১ শে ডিসেম্বর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T03:33:34.000000Z",
+        "updated_at": "2025-04-10T03:33:34.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19616,
+      "question_id": "19718",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "676",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T03:33:34.000000Z",
+      "updated_at": "2025-04-10T03:33:34.000000Z"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 40413,
+    "title": "Would you mind.............the door?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-14T03:37:14.000000Z",
+    "updated_at": "2025-06-14T03:37:14.000000Z",
+    "tags": "111,118",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 161653,
+        "question_id": "40413",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "opened",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:37:14.000000Z",
+        "updated_at": "2025-06-14T03:37:14.000000Z"
+      },
+      {
+        "id": 161654,
+        "question_id": "40413",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "opening",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-06-14T03:37:14.000000Z",
+        "updated_at": "2025-06-14T03:37:14.000000Z"
+      },
+      {
+        "id": 161655,
+        "question_id": "40413",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "to be opened",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:37:14.000000Z",
+        "updated_at": "2025-06-14T03:37:14.000000Z"
+      },
+      {
+        "id": 161656,
+        "question_id": "40413",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "in open",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:37:14.000000Z",
+        "updated_at": "2025-06-14T03:37:14.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40309,
+      "question_id": "40413",
+      "section_id": "221",
+      "exam_type_id": "1072",
+      "exam_sub_type_id": "3079",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "305",
+      "topic_id": "635",
+      "sub_topic_id": "217",
+      "created_at": "2025-06-14T03:37:14.000000Z",
+      "updated_at": "2025-06-14T03:37:14.000000Z"
+    }
+  }
+]

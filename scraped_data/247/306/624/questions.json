@@ -1,0 +1,79 @@
+[
+  {
+    "id": 30725,
+    "title": "More than two-third of our population...... literate",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-28T14:50:13.000000Z",
+    "updated_at": "2025-04-28T14:50:13.000000Z",
+    "tags": "76,59",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 123085,
+        "question_id": "30725",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "Are",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "Fraction বা ভগ্নাংশের ক্ষেত্রে পরের noun বা pronoun যায়ী verb হয়।",
+        "created_at": "2025-04-28T14:50:13.000000Z",
+        "updated_at": "2025-04-28T14:50:13.000000Z"
+      },
+      {
+        "id": 123086,
+        "question_id": "30725",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "Being",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-28T14:50:13.000000Z",
+        "updated_at": "2025-04-28T14:50:13.000000Z"
+      },
+      {
+        "id": 123087,
+        "question_id": "30725",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "Is",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-28T14:50:13.000000Z",
+        "updated_at": "2025-04-28T14:50:13.000000Z"
+      },
+      {
+        "id": 123088,
+        "question_id": "30725",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "Have been",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-28T14:50:13.000000Z",
+        "updated_at": "2025-04-28T14:50:13.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 30623,
+      "question_id": "30725",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3078",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "306",
+      "topic_id": "624",
+      "sub_topic_id": "214",
+      "created_at": "2025-04-28T14:50:13.000000Z",
+      "updated_at": "2025-04-28T14:50:13.000000Z"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20082,
+    "title": "ELEPHANT শব্দটির স্বরবর্ণগুলোকে একত্রে রেখে কত প্রকারে সাজানো যায়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-11T13:11:41.000000Z",
+    "updated_at": "2025-04-11T14:02:56.000000Z",
+    "tags": "85,59",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 80149,
+        "question_id": "20082",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "720",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-11T13:11:41.000000Z",
+        "updated_at": "2025-04-11T14:02:56.000000Z"
+      },
+      {
+        "id": 80150,
+        "question_id": "20082",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "2160",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2021-05-28%2Fd6185956-426e-4126-8222-e36f9ac4dee9-image.png\"></p>",
+        "created_at": "2025-04-11T13:11:41.000000Z",
+        "updated_at": "2025-04-11T14:02:56.000000Z"
+      },
+      {
+        "id": 80151,
+        "question_id": "20082",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "4320",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-11T13:11:41.000000Z",
+        "updated_at": "2025-04-11T14:02:56.000000Z"
+      },
+      {
+        "id": 80152,
+        "question_id": "20082",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "20160",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-11T13:11:41.000000Z",
+        "updated_at": "2025-04-11T14:02:56.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19980,
+      "question_id": "20082",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3075",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "343",
+      "topic_id": "754",
+      "sub_topic_id": "214",
+      "created_at": "2025-04-11T13:11:41.000000Z",
+      "updated_at": "2025-04-11T14:02:56.000000Z"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 82690,
+    "title": "\"ফেব্রুয়ারি ১৯৬৯” কবিতায় শামসুর রাহমান বর্ণমালাকে কিসের প্রতীক হিসেবে তুলনা করেছে?",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T05:44:14.000000Z",
+    "updated_at": "2025-12-28T05:44:14.000000Z",
+    "tags": "89,91,97,62",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330865,
+        "question_id": "82690",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "চন্দ্র",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330866,
+        "question_id": "82690",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সূর্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330867,
+        "question_id": "82690",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "নক্ষত্র",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> শামসুর রাহমান রচিত 'ফেব্রুয়ারি ১৯৬৯' কবিতাটিতে কবি বর্ণমালাকে নক্ষত্রের সাথে তুলনা করেছেন। আর ফুল বলতে বুঝিয়েছেন ভাষাকে। ১৯৫২ সালের ভাষা আন্দোলন ১৯৬৯ সালে এসে গণঅভ্যুত্থানে রূপ নেয়। ভাষা আন্দোলনের প্রতিবাদী স্মৃতি স্মারণ করতে কবি বর্ণমালাকে নক্ষত্রের সাথে তুলনা করেছেন।</p>",
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330868,
+        "question_id": "82690",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সৌরজগৎ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82573,
+      "question_id": "82690",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "263",
+      "lesson_id": "366",
+      "topic_id": "929",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T05:44:14.000000Z",
+      "updated_at": "2025-12-28T05:44:14.000000Z"
+    }
+  },
+  {
+    "id": 82690,
+    "title": "\"ফেব্রুয়ারি ১৯৬৯” কবিতায় শামসুর রাহমান বর্ণমালাকে কিসের প্রতীক হিসেবে তুলনা করেছে?",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T05:44:14.000000Z",
+    "updated_at": "2025-12-28T05:44:14.000000Z",
+    "tags": "89,91,97,62",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330865,
+        "question_id": "82690",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "চন্দ্র",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330866,
+        "question_id": "82690",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সূর্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330867,
+        "question_id": "82690",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "নক্ষত্র",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> শামসুর রাহমান রচিত 'ফেব্রুয়ারি ১৯৬৯' কবিতাটিতে কবি বর্ণমালাকে নক্ষত্রের সাথে তুলনা করেছেন। আর ফুল বলতে বুঝিয়েছেন ভাষাকে। ১৯৫২ সালের ভাষা আন্দোলন ১৯৬৯ সালে এসে গণঅভ্যুত্থানে রূপ নেয়। ভাষা আন্দোলনের প্রতিবাদী স্মৃতি স্মারণ করতে কবি বর্ণমালাকে নক্ষত্রের সাথে তুলনা করেছেন।</p>",
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      },
+      {
+        "id": 330868,
+        "question_id": "82690",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সৌরজগৎ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T05:44:14.000000Z",
+        "updated_at": "2025-12-28T05:44:14.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82573,
+      "question_id": "82690",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "263",
+      "lesson_id": "366",
+      "topic_id": "929",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T05:44:14.000000Z",
+      "updated_at": "2025-12-28T05:44:14.000000Z"
+    }
+  }
+]

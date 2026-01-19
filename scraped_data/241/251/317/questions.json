@@ -1,0 +1,233 @@
+[
+  {
+    "id": 3695,
+    "title": "<p>মাইক্রোওয়েভ উৎপন্নের যন্ত্র নিয়ে কাজ করার সময় পকেটের চকলেট গলে যেতে দেখে মাইক্রোওয়েভ ওভেন তেরির কথা ভাবেন কে?</p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2024-12-04T13:19:42.000000Z",
+    "updated_at": "2024-12-26T11:32:34.000000Z",
+    "tags": "23",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 14633,
+        "question_id": "3695",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>ম্যাক্সওয়েল</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:19:42.000000Z",
+        "updated_at": "2024-12-26T11:32:34.000000Z"
+      },
+      {
+        "id": 14634,
+        "question_id": "3695",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>মাইকেল ফ্যারাডে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:19:42.000000Z",
+        "updated_at": "2024-12-26T11:32:34.000000Z"
+      },
+      {
+        "id": 14635,
+        "question_id": "3695",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>পার্সি স্পেনসার</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2024-12-04T13:19:42.000000Z",
+        "updated_at": "2024-12-26T11:32:34.000000Z"
+      },
+      {
+        "id": 14636,
+        "question_id": "3695",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>ম্যাক্স প্ল্যাঙ্ক</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:19:42.000000Z",
+        "updated_at": "2024-12-26T11:32:34.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 3613,
+      "question_id": "3695",
+      "section_id": "221",
+      "exam_type_id": "1062",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "317",
+      "sub_topic_id": null,
+      "created_at": "2024-12-04T13:19:42.000000Z",
+      "updated_at": "2024-12-26T11:32:34.000000Z"
+    }
+  },
+  {
+    "id": 3694,
+    "title": "<p>সূর্যের রশ্মি কেন্দ্রীভূত করে আগুন জ্বালানোর কৌশল জানতেন কোন বিজ্ঞানী? </p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2024-12-04T13:17:52.000000Z",
+    "updated_at": "2024-12-26T11:32:20.000000Z",
+    "tags": "22",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 14629,
+        "question_id": "3694",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>থমাস ইয়াং</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:17:52.000000Z",
+        "updated_at": "2024-12-26T11:32:20.000000Z"
+      },
+      {
+        "id": 14630,
+        "question_id": "3694",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>আর্কিমিডিস</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2024-12-04T13:17:52.000000Z",
+        "updated_at": "2024-12-26T11:32:20.000000Z"
+      },
+      {
+        "id": 14631,
+        "question_id": "3694",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>গ্যালিলিও</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:17:52.000000Z",
+        "updated_at": "2024-12-26T11:32:20.000000Z"
+      },
+      {
+        "id": 14632,
+        "question_id": "3694",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>ম্যাক্স প্ল্যাঙ্ক</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:17:52.000000Z",
+        "updated_at": "2024-12-26T11:32:20.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 3612,
+      "question_id": "3694",
+      "section_id": "221",
+      "exam_type_id": "1062",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "317",
+      "sub_topic_id": null,
+      "created_at": "2024-12-04T13:17:52.000000Z",
+      "updated_at": "2024-12-26T11:32:20.000000Z"
+    }
+  },
+  {
+    "id": 3692,
+    "title": "<p>পাখির উড়া পর্যবেক্ষণ করে উড়োজাহাজের মডেল তৈরি করেন কে?</p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2024-12-04T13:16:43.000000Z",
+    "updated_at": "2024-12-26T11:31:53.000000Z",
+    "tags": "24,21",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 14621,
+        "question_id": "3692",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>রবার্ট হুক</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:16:43.000000Z",
+        "updated_at": "2024-12-26T11:31:53.000000Z"
+      },
+      {
+        "id": 14622,
+        "question_id": "3692",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>রজার বেকন</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:16:43.000000Z",
+        "updated_at": "2024-12-26T11:31:53.000000Z"
+      },
+      {
+        "id": 14623,
+        "question_id": "3692",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>লিওনার্দো দ্য ভিঞ্চি</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2024-12-04T13:16:43.000000Z",
+        "updated_at": "2024-12-26T11:31:53.000000Z"
+      },
+      {
+        "id": 14624,
+        "question_id": "3692",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>নিউটন</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2024-12-04T13:16:43.000000Z",
+        "updated_at": "2024-12-26T11:31:53.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 3610,
+      "question_id": "3692",
+      "section_id": "221",
+      "exam_type_id": "1062",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "251",
+      "topic_id": "317",
+      "sub_topic_id": null,
+      "created_at": "2024-12-04T13:16:43.000000Z",
+      "updated_at": "2024-12-26T11:31:53.000000Z"
+    }
+  }
+]

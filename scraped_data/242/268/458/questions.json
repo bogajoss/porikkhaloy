@@ -1,0 +1,79 @@
+[
+  {
+    "id": 26878,
+    "title": "নিচের কোনটি আলোর ব্যতিচার জন্য দরকার নেই?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-22T09:49:32.000000Z",
+    "updated_at": "2025-04-22T09:49:32.000000Z",
+    "tags": "79,59,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 107617,
+        "question_id": "26878",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "একাধিক তরঙ্গমুখ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-22T09:49:32.000000Z",
+        "updated_at": "2025-04-22T09:49:32.000000Z"
+      },
+      {
+        "id": 107618,
+        "question_id": "26878",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সুসংগত আলো",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-22T09:49:32.000000Z",
+        "updated_at": "2025-04-22T09:49:32.000000Z"
+      },
+      {
+        "id": 107619,
+        "question_id": "26878",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "পথ পার্থক্য",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-22T09:49:32.000000Z",
+        "updated_at": "2025-04-22T09:49:32.000000Z"
+      },
+      {
+        "id": 107620,
+        "question_id": "26878",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "স্পন্দন সংখ্যার পার্থক্য",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-22T09:49:32.000000Z",
+        "updated_at": "2025-04-22T09:49:32.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 26776,
+      "question_id": "26878",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3070",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "242",
+      "lesson_id": "268",
+      "topic_id": "458",
+      "sub_topic_id": null,
+      "created_at": "2025-04-22T09:49:32.000000Z",
+      "updated_at": "2025-04-22T09:49:32.000000Z"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 18797,
+    "title": "নিম্নের কোন তথ্যটি সঠিক নয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T17:27:01.000000Z",
+    "updated_at": "2025-04-08T17:27:01.000000Z",
+    "tags": "65,48",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 74990,
+        "question_id": "18797",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "বৈকাল বিশ্বে উচ্চতম হ্রদ",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><strong>অপশন 'A' সঠিক নয়; কারণ- বৈকাল হচ্ছে বিশ্বের গভীরতম হ্রদ।</strong></p><p><strong>Note:</strong></p><p>→ বিশ্বের দীর্ঘতম খাল-গ্র্যান্ড খাল</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>দীর্ঘতম কৃত্রিম খাল- সুয়েজ খাল</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>দীর্ঘতম নদী- নীল নদ</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>দীর্ঘতম সমুদ্র সৈকত- কক্সবাজার</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>বিশ্বের গভীরতম হ্রদ- বৈকাল হ্রদ</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>গভীরতম উপসাগর- মেক্সিকো উপসাগর</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>বিশ্বের উচ্চতম দেশ- তিব্বত</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>উচ্চতম পর্বতমালা- হিমালয়</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>উচ্চতম পর্বতশৃঙ্গ- এভারেস্ট</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>উচ্চতম জলপ্রপাত- অ্যাঞ্জেল</p><p><span style=\"color: rgb(2, 8, 23);\">→ </span>উচ্চতম মালভূমি- পামির</p>",
+        "created_at": "2025-04-08T17:27:01.000000Z",
+        "updated_at": "2025-04-08T17:27:01.000000Z"
+      },
+      {
+        "id": 74991,
+        "question_id": "18797",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "আকিশ কাইকিশু বিশ্বের দীর্ঘতম ঝুলন্ত সেতু",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:27:01.000000Z",
+        "updated_at": "2025-04-08T17:27:01.000000Z"
+      },
+      {
+        "id": 74992,
+        "question_id": "18797",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "পানামা বিশ্বের গভীরতম খাল",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:27:01.000000Z",
+        "updated_at": "2025-04-08T17:27:01.000000Z"
+      },
+      {
+        "id": 74993,
+        "question_id": "18797",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "21জুন বিশ্বের ক্ষুদ্রতম রাত",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:27:01.000000Z",
+        "updated_at": "2025-04-08T17:27:01.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18695,
+      "question_id": "18797",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "725",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T17:27:01.000000Z",
+      "updated_at": "2025-04-08T17:27:01.000000Z"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 19629,
+    "title": "নিম্নের কোনটি ঘুর্ণিঝড়ের নাম নয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T18:08:24.000000Z",
+    "updated_at": "2025-04-09T18:08:24.000000Z",
+    "tags": "64,51",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 78334,
+        "question_id": "19629",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "নার্গিস",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:08:24.000000Z",
+        "updated_at": "2025-04-09T18:08:24.000000Z"
+      },
+      {
+        "id": 78335,
+        "question_id": "19629",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সিডর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:08:24.000000Z",
+        "updated_at": "2025-04-09T18:08:24.000000Z"
+      },
+      {
+        "id": 78336,
+        "question_id": "19629",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "গ্যালাক্সি",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-09T18:08:24.000000Z",
+        "updated_at": "2025-04-09T18:08:24.000000Z"
+      },
+      {
+        "id": 78337,
+        "question_id": "19629",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সাইরিন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T18:08:24.000000Z",
+        "updated_at": "2025-04-09T18:08:24.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19527,
+      "question_id": "19629",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "670",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T18:08:24.000000Z",
+      "updated_at": "2025-04-09T18:08:24.000000Z"
+    }
+  },
+  {
+    "id": 19473,
+    "title": "বাংলাদেশের বৃষ্টিপাতের কতভাগ বর্ষাকালে হয়?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-09T16:30:21.000000Z",
+    "updated_at": "2025-04-09T16:30:21.000000Z",
+    "tags": "64,48",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 77710,
+        "question_id": "19473",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "40%",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:30:21.000000Z",
+        "updated_at": "2025-04-09T16:30:21.000000Z"
+      },
+      {
+        "id": 77711,
+        "question_id": "19473",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "60%",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:30:21.000000Z",
+        "updated_at": "2025-04-09T16:30:21.000000Z"
+      },
+      {
+        "id": 77712,
+        "question_id": "19473",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "80%",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "বাংলাদেশ ষড়ঋতুর দেশ হলেও বর্ষাকালের প্রভাব অনেক বেশি। এমনকি বাংলাদেশের মোট বৃষ্টিপাতের মাত্র ২০ ভাগ সারা বছর এবং ৮০ ভাগই বর্ষাকালে হয়ে থাকে।",
+        "created_at": "2025-04-09T16:30:21.000000Z",
+        "updated_at": "2025-04-09T16:30:21.000000Z"
+      },
+      {
+        "id": 77713,
+        "question_id": "19473",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "20%",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-09T16:30:21.000000Z",
+        "updated_at": "2025-04-09T16:30:21.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19371,
+      "question_id": "19473",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "670",
+      "sub_topic_id": null,
+      "created_at": "2025-04-09T16:30:21.000000Z",
+      "updated_at": "2025-04-09T16:30:21.000000Z"
+    }
+  }
+]

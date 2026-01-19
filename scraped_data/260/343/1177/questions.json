@@ -1,0 +1,178 @@
+[
+  {
+    "id": 82611,
+    "title": "<p>কোন অংক দুইবার ব্যবহার না করে 0, 2, 3 এবং 5 অংক চারটি দ্বারা 1000 হতে বড় কতগুলি সংখ্যা গঠন করা যায়?</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-27T13:01:31.000000Z",
+    "updated_at": "2025-12-28T06:20:44.000000Z",
+    "tags": "89,96,56",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330537,
+        "question_id": "82611",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "24",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330538,
+        "question_id": "82611",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "36",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330539,
+        "question_id": "82611",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "9",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330540,
+        "question_id": "82611",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330541,
+        "question_id": "82611",
+        "mcq_option_serial": "5",
+        "mcq_question_text": "18",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>1000 এর চেয়ে বড় সংখ্যাগুলো 2 বা 3 বা 5 দ্বারা শুরু হবে। </p><p><span class=\"ql-formula\" data-value=\"\\therefore\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>∴</mo></mrow><annotation encoding=\"application/x-tex\">\\therefore</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6922em;\"></span><span class=\"mrel amsrm\">∴</span></span></span></span></span>﻿</span> অংকগুলো একবার ব্যবহার করে গঠিত সংখ্যা = <span class=\"ql-formula\" data-value=\"3 \\times {}^3P_3\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>3</mn><mo>×</mo><msup><mrow></mrow><mn>3</mn></msup><msub><mi>P</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\">3 \\times {}^3P_3</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">3</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.9641em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> = 18</p>",
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82494,
+      "question_id": "82611",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "343",
+      "topic_id": "1177",
+      "sub_topic_id": null,
+      "created_at": "2025-12-27T13:01:31.000000Z",
+      "updated_at": "2025-12-28T06:20:44.000000Z"
+    }
+  },
+  {
+    "id": 82611,
+    "title": "<p>কোন অংক দুইবার ব্যবহার না করে 0, 2, 3 এবং 5 অংক চারটি দ্বারা 1000 হতে বড় কতগুলি সংখ্যা গঠন করা যায়?</p>",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-27T13:01:31.000000Z",
+    "updated_at": "2025-12-28T06:20:44.000000Z",
+    "tags": "89,96,56",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330537,
+        "question_id": "82611",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "24",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330538,
+        "question_id": "82611",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "36",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330539,
+        "question_id": "82611",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "9",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330540,
+        "question_id": "82611",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      },
+      {
+        "id": 330541,
+        "question_id": "82611",
+        "mcq_option_serial": "5",
+        "mcq_question_text": "18",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>1000 এর চেয়ে বড় সংখ্যাগুলো 2 বা 3 বা 5 দ্বারা শুরু হবে। </p><p><span class=\"ql-formula\" data-value=\"\\therefore\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>∴</mo></mrow><annotation encoding=\"application/x-tex\">\\therefore</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6922em;\"></span><span class=\"mrel amsrm\">∴</span></span></span></span></span>﻿</span> অংকগুলো একবার ব্যবহার করে গঠিত সংখ্যা = <span class=\"ql-formula\" data-value=\"3 \\times {}^3P_3\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>3</mn><mo>×</mo><msup><mrow></mrow><mn>3</mn></msup><msub><mi>P</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\">3 \\times {}^3P_3</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">3</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.9641em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord\"></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> = 18</p>",
+        "created_at": "2025-12-27T13:01:31.000000Z",
+        "updated_at": "2025-12-28T06:20:44.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82494,
+      "question_id": "82611",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "343",
+      "topic_id": "1177",
+      "sub_topic_id": null,
+      "created_at": "2025-12-27T13:01:31.000000Z",
+      "updated_at": "2025-12-28T06:20:44.000000Z"
+    }
+  }
+]

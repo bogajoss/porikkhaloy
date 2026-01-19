@@ -1,0 +1,156 @@
+[
+  {
+    "id": 25850,
+    "title": "একটি আবর্তনরত কণার স্বাধীনতার মাত্রা-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-20T15:23:01.000000Z",
+    "updated_at": "2025-04-20T15:23:01.000000Z",
+    "tags": "70,59,94,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 103503,
+        "question_id": "25850",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T15:23:01.000000Z",
+        "updated_at": "2025-04-20T15:23:01.000000Z"
+      },
+      {
+        "id": 103504,
+        "question_id": "25850",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "3",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "একটি আবর্তনরত কণার স্বাধীনতার মাত্রা = 3 যেমন: মশার গতি।",
+        "created_at": "2025-04-20T15:23:01.000000Z",
+        "updated_at": "2025-04-20T15:23:01.000000Z"
+      },
+      {
+        "id": 103505,
+        "question_id": "25850",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "4",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T15:23:01.000000Z",
+        "updated_at": "2025-04-20T15:23:01.000000Z"
+      },
+      {
+        "id": 103506,
+        "question_id": "25850",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "5",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T15:23:01.000000Z",
+        "updated_at": "2025-04-20T15:23:01.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 25748,
+      "question_id": "25850",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3062",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "260",
+      "topic_id": "377",
+      "sub_topic_id": null,
+      "created_at": "2025-04-20T15:23:01.000000Z",
+      "updated_at": "2025-04-20T15:23:01.000000Z"
+    }
+  },
+  {
+    "id": 25504,
+    "title": "তাপমাত্রা কতগুণ হলে অক্সিজেন অণুর বেগ দ্বিগুণ হবে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-20T09:47:29.000000Z",
+    "updated_at": "2025-04-20T09:47:29.000000Z",
+    "tags": "73,57,92,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 102118,
+        "question_id": "25504",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "2",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:47:29.000000Z",
+        "updated_at": "2025-04-20T09:47:29.000000Z"
+      },
+      {
+        "id": 102119,
+        "question_id": "25504",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "4",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2023-06-20/ef0bcc23-a92e-4d54-aed7-dd61bdcdf596-image.png\"></p>",
+        "created_at": "2025-04-20T09:47:29.000000Z",
+        "updated_at": "2025-04-20T09:47:29.000000Z"
+      },
+      {
+        "id": 102120,
+        "question_id": "25504",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "8",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:47:29.000000Z",
+        "updated_at": "2025-04-20T09:47:29.000000Z"
+      },
+      {
+        "id": 102121,
+        "question_id": "25504",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "16",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-20T09:47:29.000000Z",
+        "updated_at": "2025-04-20T09:47:29.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 25402,
+      "question_id": "25504",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3074",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "260",
+      "topic_id": "377",
+      "sub_topic_id": null,
+      "created_at": "2025-04-20T09:47:29.000000Z",
+      "updated_at": "2025-04-20T09:47:29.000000Z"
+    }
+  }
+]

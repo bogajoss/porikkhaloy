@@ -1,0 +1,233 @@
+[
+  {
+    "id": 33294,
+    "title": "Choose the correct translation of 'He has gone to the dogs.'",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-05-01T04:30:10.000000Z",
+    "updated_at": "2025-05-01T04:30:10.000000Z",
+    "tags": "69,58,92",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 133342,
+        "question_id": "33294",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "সে কুকুরের কাছে গেছে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:30:10.000000Z",
+        "updated_at": "2025-05-01T04:30:10.000000Z"
+      },
+      {
+        "id": 133343,
+        "question_id": "33294",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "সে কুকুর খুব ভালোবাসে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:30:10.000000Z",
+        "updated_at": "2025-05-01T04:30:10.000000Z"
+      },
+      {
+        "id": 133344,
+        "question_id": "33294",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "সে গোল্লায় গেছে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-05-01T04:30:10.000000Z",
+        "updated_at": "2025-05-01T04:30:10.000000Z"
+      },
+      {
+        "id": 133345,
+        "question_id": "33294",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "সে কুকুর পোষে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:30:10.000000Z",
+        "updated_at": "2025-05-01T04:30:10.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 33192,
+      "question_id": "33294",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3061",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "311",
+      "topic_id": "625",
+      "sub_topic_id": "214",
+      "created_at": "2025-05-01T04:30:10.000000Z",
+      "updated_at": "2025-05-01T04:30:10.000000Z"
+    }
+  },
+  {
+    "id": 33293,
+    "title": "Pick the best Translation of: বাংলাদেশ উৎসবের দেশ।",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-05-01T04:29:09.000000Z",
+    "updated_at": "2025-05-01T04:29:09.000000Z",
+    "tags": "69,57,92",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 133338,
+        "question_id": "33293",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "Bangladesh is a land of enormous festivals.",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:29:09.000000Z",
+        "updated_at": "2025-05-01T04:29:09.000000Z"
+      },
+      {
+        "id": 133339,
+        "question_id": "33293",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "Bangladesh is a land of festival",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:29:09.000000Z",
+        "updated_at": "2025-05-01T04:29:09.000000Z"
+      },
+      {
+        "id": 133340,
+        "question_id": "33293",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "Bangladesh is a land of festivals",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "Pine a land of festival- উৎসবের দেশ।",
+        "created_at": "2025-05-01T04:29:09.000000Z",
+        "updated_at": "2025-05-01T04:29:09.000000Z"
+      },
+      {
+        "id": 133341,
+        "question_id": "33293",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "Bangladesh is a land of many festivals",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-05-01T04:29:09.000000Z",
+        "updated_at": "2025-05-01T04:29:09.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 33191,
+      "question_id": "33293",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3061",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "311",
+      "topic_id": "625",
+      "sub_topic_id": "214",
+      "created_at": "2025-05-01T04:29:09.000000Z",
+      "updated_at": "2025-05-01T04:29:09.000000Z"
+    }
+  },
+  {
+    "id": 33100,
+    "title": "What is the best translation of ' গাঁয়ে মানে না আপনি মোড়ল?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-30T16:27:09.000000Z",
+    "updated_at": "2025-04-30T16:27:09.000000Z",
+    "tags": "70,57,92",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 132566,
+        "question_id": "33100",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "Every man is for himself",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-30T16:27:09.000000Z",
+        "updated_at": "2025-04-30T16:27:09.000000Z"
+      },
+      {
+        "id": 132567,
+        "question_id": "33100",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "He is self -styled leader.",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-30T16:27:09.000000Z",
+        "updated_at": "2025-04-30T16:27:09.000000Z"
+      },
+      {
+        "id": 132568,
+        "question_id": "33100",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "Opportunity makes the thieves",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-30T16:27:09.000000Z",
+        "updated_at": "2025-04-30T16:27:09.000000Z"
+      },
+      {
+        "id": 132569,
+        "question_id": "33100",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "Good wine needs no bush",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-30T16:27:09.000000Z",
+        "updated_at": "2025-04-30T16:27:09.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 32998,
+      "question_id": "33100",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3062",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "311",
+      "topic_id": "625",
+      "sub_topic_id": null,
+      "created_at": "2025-04-30T16:27:09.000000Z",
+      "updated_at": "2025-04-30T16:27:09.000000Z"
+    }
+  }
+]

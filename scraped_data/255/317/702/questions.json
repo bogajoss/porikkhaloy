@@ -1,0 +1,156 @@
+[
+  {
+    "id": 18844,
+    "title": "ফিনল্যান্ডের রাজধানীর নাম কী?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T17:58:34.000000Z",
+    "updated_at": "2025-04-08T17:58:34.000000Z",
+    "tags": "64,54",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 75181,
+        "question_id": "18844",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হেলসিনকি",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-08T17:58:34.000000Z",
+        "updated_at": "2025-04-08T17:58:34.000000Z"
+      },
+      {
+        "id": 75182,
+        "question_id": "18844",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "জেনেভা",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:58:34.000000Z",
+        "updated_at": "2025-04-08T17:58:34.000000Z"
+      },
+      {
+        "id": 75183,
+        "question_id": "18844",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "মাদ্রিদ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:58:34.000000Z",
+        "updated_at": "2025-04-08T17:58:34.000000Z"
+      },
+      {
+        "id": 75184,
+        "question_id": "18844",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "অসলো",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:58:34.000000Z",
+        "updated_at": "2025-04-08T17:58:34.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18742,
+      "question_id": "18844",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "702",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T17:58:34.000000Z",
+      "updated_at": "2025-04-08T17:58:34.000000Z"
+    }
+  },
+  {
+    "id": 18804,
+    "title": "চার্লস দ্য গল নিম্নের কোন দেশের নেতা ছিলেন?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T17:31:44.000000Z",
+    "updated_at": "2025-04-08T17:31:44.000000Z",
+    "tags": "65,49",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 75018,
+        "question_id": "18804",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ফ্রান্স",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-08T17:31:44.000000Z",
+        "updated_at": "2025-04-08T17:31:44.000000Z"
+      },
+      {
+        "id": 75019,
+        "question_id": "18804",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "জার্মানি",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:31:44.000000Z",
+        "updated_at": "2025-04-08T17:31:44.000000Z"
+      },
+      {
+        "id": 75020,
+        "question_id": "18804",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "স্পেন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:31:44.000000Z",
+        "updated_at": "2025-04-08T17:31:44.000000Z"
+      },
+      {
+        "id": 75021,
+        "question_id": "18804",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "পুর্তুগাল",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T17:31:44.000000Z",
+        "updated_at": "2025-04-08T17:31:44.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18702,
+      "question_id": "18804",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "702",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T17:31:44.000000Z",
+      "updated_at": "2025-04-08T17:31:44.000000Z"
+    }
+  }
+]

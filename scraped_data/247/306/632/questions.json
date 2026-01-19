@@ -1,0 +1,79 @@
+[
+  {
+    "id": 27733,
+    "title": "A decade ___ since the discovery of leprosy vaccine. Choose the right option to fill in the gap",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-24T03:22:11.000000Z",
+    "updated_at": "2025-04-24T03:22:11.000000Z",
+    "tags": "85,59,93",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 111125,
+        "question_id": "27733",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "passed",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-24T03:22:11.000000Z",
+        "updated_at": "2025-04-24T03:22:11.000000Z"
+      },
+      {
+        "id": 111126,
+        "question_id": "27733",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "has passed",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-04-24T03:22:11.000000Z",
+        "updated_at": "2025-04-24T03:22:11.000000Z"
+      },
+      {
+        "id": 111127,
+        "question_id": "27733",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "have passed",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-24T03:22:11.000000Z",
+        "updated_at": "2025-04-24T03:22:11.000000Z"
+      },
+      {
+        "id": 111128,
+        "question_id": "27733",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "had passed",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-24T03:22:11.000000Z",
+        "updated_at": "2025-04-24T03:22:11.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 27631,
+      "question_id": "27733",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3075",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "306",
+      "topic_id": "632",
+      "sub_topic_id": "216",
+      "created_at": "2025-04-24T03:22:11.000000Z",
+      "updated_at": "2025-04-24T03:22:11.000000Z"
+    }
+  }
+]

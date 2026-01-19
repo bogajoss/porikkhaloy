@@ -1,0 +1,156 @@
+[
+  {
+    "id": 43967,
+    "title": "The correct translation of ’আমি আম পছন্দ করি’ would be",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-28T02:17:52.000000Z",
+    "updated_at": "2025-06-28T02:17:52.000000Z",
+    "tags": "87,48,94",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 175658,
+        "question_id": "43967",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "I like mango",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-28T02:17:52.000000Z",
+        "updated_at": "2025-06-28T02:17:52.000000Z"
+      },
+      {
+        "id": 175659,
+        "question_id": "43967",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "I would like a mango",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-28T02:17:52.000000Z",
+        "updated_at": "2025-06-28T02:17:52.000000Z"
+      },
+      {
+        "id": 175660,
+        "question_id": "43967",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "I like mangoes",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-06-28T02:17:52.000000Z",
+        "updated_at": "2025-06-28T02:17:52.000000Z"
+      },
+      {
+        "id": 175661,
+        "question_id": "43967",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "I like the mango",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-28T02:17:52.000000Z",
+        "updated_at": "2025-06-28T02:17:52.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 43863,
+      "question_id": "43967",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3055",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "311",
+      "topic_id": "631",
+      "sub_topic_id": "213",
+      "created_at": "2025-06-28T02:17:52.000000Z",
+      "updated_at": "2025-06-28T02:17:52.000000Z"
+    }
+  },
+  {
+    "id": 40410,
+    "title": "\"তুমিই যত নষ্টের গোড়া\" - Appropriate translation is:",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-06-14T03:33:31.000000Z",
+    "updated_at": "2025-06-14T03:33:31.000000Z",
+    "tags": "111,118",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 161641,
+        "question_id": "40410",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "It is you who was at the root of all mischiefs",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:33:31.000000Z",
+        "updated_at": "2025-06-14T03:33:31.000000Z"
+      },
+      {
+        "id": 161642,
+        "question_id": "40410",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "You are at the root of all mischiefs.",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:33:31.000000Z",
+        "updated_at": "2025-06-14T03:33:31.000000Z"
+      },
+      {
+        "id": 161643,
+        "question_id": "40410",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "It is you who is at the root of all mischiefs.",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-06-14T03:33:31.000000Z",
+        "updated_at": "2025-06-14T03:33:31.000000Z"
+      },
+      {
+        "id": 161644,
+        "question_id": "40410",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "It is you who are at the root of all mischiefs.",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-06-14T03:33:31.000000Z",
+        "updated_at": "2025-06-14T03:33:31.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 40306,
+      "question_id": "40410",
+      "section_id": "221",
+      "exam_type_id": "1072",
+      "exam_sub_type_id": "3079",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "247",
+      "lesson_id": "311",
+      "topic_id": "631",
+      "sub_topic_id": "217",
+      "created_at": "2025-06-14T03:33:31.000000Z",
+      "updated_at": "2025-06-14T03:33:31.000000Z"
+    }
+  }
+]

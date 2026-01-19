@@ -1,0 +1,79 @@
+[
+  {
+    "id": 27330,
+    "title": "ফোটনের কম্পাঙ্ক f হলে, একটি ফোটনের ভরবেগ কত?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-23T10:21:11.000000Z",
+    "updated_at": "2025-04-23T10:21:11.000000Z",
+    "tags": "73,57,92,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 109512,
+        "question_id": "27330",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAzCAYAAAAn3w6xAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPMSURBVGhD7ZrPS2JRFMf9V1oEBQMGwVsISgsfLZSBfASjMGC4SFwYLaSF0lCSMPIWLVoIgguhhSAMIUQIg7wYahZJCyUIEcKCQCNQGHAhfOfe57XE7Ifhfa+Z5wfk3o6+xf3ec849951MMDgTAdhoWCYCsNGwTARgo2GZCMDGsdLMhWAT5jA1PYup+ShOOuyLt1DNwm8XYbNbYQtkUWNmXvDzgGoCIhXAl0WTmV7nArKdPLPshjRDxmk30rfsK05wE6CdC6oe4ExUmeUNlHZhI8+Icg6ZWAQ7++dojuI974CbAIUw3UEBm6fM8AbqGa8qmv+wzSz84SRAFXsOKkAQRyOspSuaA3uXzKABfASoZ+Gh8W9xw+9zY2U9CFEQIH1TUGc/6eckRpLeggjzJyrALMxW+ncQGc7xT+EjgBJRFzJlIYu46rpALekitrkXQkLBGn3GkUCFWbSAiwBlWSSLFbCWbzFLz+bC3nM5sXdqhBRm0AYOAlwj+Zm6cn/8M9tCHMXnsno+pHqNM3nNDNowfgH+5OCnO/ll/zHer1JwEpvt+zkzPKWScKheM8qpMQ7GL8DP7k6Kfb5e3qXuL0IukXnSDU9qMA7aOAhQr+Ff+AwydgGK28LAThL3X2Lu31SwYXUh+SQPkApw4ZUQ4cSYBWgg/ZUsxErq/77zv5YNwmYRIS46sHnYIPs9QC9sgvmn33GGQxJ8B2dRmIkA0n6DGbRDVwEqP+LYiOVQUGuEF45Ijpju7u7YVGN61eKMC05aNpOrL++LzzBMx8fHbKo118gERAikBLYtxVG4Z2aNMaXTaTY1JiZZltnUmJi2trbY1JhMBBhHCKhXX84fXkySoH7H4MdAv0Log6BrKVzPR7HiW4VzXoB5OYGyHpUgG7WHviSxk1sj7Zo0yW2QNkICOePcBmspegGahUe9AfZeiARxoLEC+nnArQI5HEem1F3x0ToRYGYVmWHvzTmiaw54gIWAEFZG6COOB/0F6LTI7lshrudQ+S+TYKeBk2QI0qIb/nAQTqsLO6e9fkELhZAIMUZ2vtNG5dfF0M4RT/gK0PyNzUUS20sJVGion8Uh0Gyvdn9aKMpeSNt5VOoN1G+y8FuiKHaf1AyOAjSQoS9Ip91I3jBTKQHJ4YWstFDPrj7U+Q+f/l6CRvAT4KLb69djUaPATYDeOd/fIPmIcBdgLc8MPUhSLF8+Nk31hl8I3GbhIQlPSvU1O+/PkfRZ1X+b0brkfQ6OSZAcAsouPA6yYF8Efq8DkjeC9OmQzpCOcBXgX2AiABsNi8EFAP4C4RQ7q9AsEwYAAAAASUVORK5CYII=\"></p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-23T10:21:11.000000Z",
+        "updated_at": "2025-04-23T10:21:11.000000Z"
+      },
+      {
+        "id": 109513,
+        "question_id": "27330",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAxCAYAAAB6d+FmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMDSURBVGhD7ZnNaxpBGIf7r3gIGCgkUNiD4JJDhh6UQpRCVigk5CIeNvQgHgwpNFRo8ODBg7DgIeBBEEoRQhCKeDE9JOSQECgiBC0IBgoGCh4Cv86sIxGTGM3MWDbsA2Lyrgv7zDvz7ny8wgvElXIKrpRTcKUeoleOQ9eW4VlYhOfNHuq3/MI0NEuIrhLoq37osRJaPCyKnEw1cyBMaquEHg89zSXSq/Se9wbCXvq9YOCgwy8JIkWqXzbtTAVzTR6ZgvMMdHoPSZdRTO3gS+EMvVmyPAEpUtUka2kNu8c8MAXd4obdENHDPo/IQ4JUE9kAkzJxNMPzDRoigOwvHpCIuFS3hAgbTz4D0S0Dmx9NEE1D+FMNXf6TUeopWhhWCJZeM6lFLPnZ/yaKksYTQ1yqtmM/nMdHH+xqkKqWFaKx5QndsYZtdk8ghwaPyERY6iJNqICG7coNjwxjIWQfqxvDahmv8YBcBKXasN6xbjQ6nnhsZR+nj1WzStzObtBq84BcxKT+lhFlLb5euBs/V3kEaUz/esYD92nkAnZ2Z6mWsyAm9WPQ4mSkn11kWNcjSJ/Tvy0Dkfx4H+zje4xlV97LdhwhqdPP2liL0663xrter4aEPwTr3riiM4mVJ7qnIAJS1zj4QB/OT+d7I++nVsmE7iMgbwPYPbymeRlj2GXNyv1rkhAsFM/gZA9LVCpcuOYB+cxNqvFtH4lUGVX7HTah3EtgPlLDWYc3hCCbUtFlhqzJ60PMKVNtFGMEGp0e6Wv7qP7hYUXMf0zNAVfKKbhSDHuZofgjipspp+BKOQVXyim4Uk7BlZqZzk9YcQNk3UQiFoJGlx316Y9Fno0yqd7xHoh3cBLC9iJOU357CkRmORl5JmqkOnSly86c1vNo8RXuRZZmbCOjfIHIUCI12PtTu7kyCQVSfO9P0THNNCiUiuNofHOlc4mGUwvF4JTQgPWbByi9kzw2/SGaPVVbmHeoKRS3N6hmNkCoxGbSRCRgIJIsoN5VL8RQI/WfcaWcwguUAv4BOY8fMGQwgUIAAAAASUVORK5CYII=\"></p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2023-06-20/04d2e8b3-146d-4b87-b701-0bbacdcd6068-image.png\"></p>",
+        "created_at": "2025-04-23T10:21:11.000000Z",
+        "updated_at": "2025-04-23T10:21:11.000000Z"
+      },
+      {
+        "id": 109514,
+        "question_id": "27330",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "h f c",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-23T10:21:11.000000Z",
+        "updated_at": "2025-04-23T10:21:11.000000Z"
+      },
+      {
+        "id": 109515,
+        "question_id": "27330",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "h f c 2",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-23T10:21:11.000000Z",
+        "updated_at": "2025-04-23T10:21:11.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 27228,
+      "question_id": "27330",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3074",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "242",
+      "lesson_id": "268",
+      "topic_id": "457",
+      "sub_topic_id": null,
+      "created_at": "2025-04-23T10:21:11.000000Z",
+      "updated_at": "2025-04-23T10:21:11.000000Z"
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 50748,
+    "title": "<p><img src=\"data:image/png;base64,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\"></p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-17T09:37:15.000000Z",
+    "updated_at": "2025-07-17T09:37:15.000000Z",
+    "tags": "88,63,93,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 202567,
+        "question_id": "50748",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "[-π, π]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202568,
+        "question_id": "50748",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "[-2, 2]",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2024-09-13/4b18ec55-2c1a-4310-8557-c56dc11c5462-image.png\"></p>",
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202569,
+        "question_id": "50748",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "[-1, 1]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202570,
+        "question_id": "50748",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "[-∞, ∞]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 50644,
+      "question_id": "50748",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "869",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-17T09:37:15.000000Z",
+      "updated_at": "2025-07-17T09:37:15.000000Z"
+    }
+  },
+  {
+    "id": 22257,
+    "title": "<p><img src=\"data:image/png;base64,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\"></p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-15T13:31:14.000000Z",
+    "updated_at": "2025-04-15T13:31:14.000000Z",
+    "tags": "70,58,94,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 88967,
+        "question_id": "22257",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "π",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T13:31:14.000000Z",
+        "updated_at": "2025-04-15T13:31:14.000000Z"
+      },
+      {
+        "id": 88968,
+        "question_id": "22257",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "π/4",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2021-06-05%2F6f0924da-37f3-42a2-9aac-857c55bde6d6-image.png\"></p>",
+        "created_at": "2025-04-15T13:31:14.000000Z",
+        "updated_at": "2025-04-15T13:31:14.000000Z"
+      },
+      {
+        "id": 88969,
+        "question_id": "22257",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "π/6",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T13:31:14.000000Z",
+        "updated_at": "2025-04-15T13:31:14.000000Z"
+      },
+      {
+        "id": 88970,
+        "question_id": "22257",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "π/3",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T13:31:14.000000Z",
+        "updated_at": "2025-04-15T13:31:14.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 22155,
+      "question_id": "22257",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3062",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "869",
+      "sub_topic_id": "214",
+      "created_at": "2025-04-15T13:31:14.000000Z",
+      "updated_at": "2025-04-15T13:31:14.000000Z"
+    }
+  },
+  {
+    "id": 50748,
+    "title": "<p><img src=\"data:image/png;base64,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\"></p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-17T09:37:15.000000Z",
+    "updated_at": "2025-07-17T09:37:15.000000Z",
+    "tags": "88,63,93,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 202567,
+        "question_id": "50748",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "[-π, π]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202568,
+        "question_id": "50748",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "[-2, 2]",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2024-09-13/4b18ec55-2c1a-4310-8557-c56dc11c5462-image.png\"></p>",
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202569,
+        "question_id": "50748",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "[-1, 1]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      },
+      {
+        "id": 202570,
+        "question_id": "50748",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "[-∞, ∞]",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-17T09:37:15.000000Z",
+        "updated_at": "2025-07-17T09:37:15.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 50644,
+      "question_id": "50748",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "344",
+      "topic_id": "869",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-17T09:37:15.000000Z",
+      "updated_at": "2025-07-17T09:37:15.000000Z"
+    }
+  }
+]

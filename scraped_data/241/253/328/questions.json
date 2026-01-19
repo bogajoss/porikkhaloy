@@ -1,0 +1,79 @@
+[
+  {
+    "id": 24176,
+    "title": "<p>একটি বস্তু স্থির থেকে 4ms<sup>-2</sup> ত্বরণে যাত্রা মুরু করলে 6 sec পর বস্তুর অতিক্রান্ত দূরত্ব কত হবে?</p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T14:31:55.000000Z",
+    "updated_at": "2025-04-18T14:31:55.000000Z",
+    "tags": "82,54,91,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 96672,
+        "question_id": "24176",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "72 m",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>কটি বস্তু স্থির থেকে 4ms<sup>-2</sup> ত্বরণে যাত্রা মুরু করলে 6 sec পর বস্তর অতিক্রান্ত দূরত্ব কত হবে? </p><p>সঠিক উত্তর 72 m</p>",
+        "created_at": "2025-04-18T14:31:55.000000Z",
+        "updated_at": "2025-04-18T14:31:55.000000Z"
+      },
+      {
+        "id": 96673,
+        "question_id": "24176",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "24 m",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:31:55.000000Z",
+        "updated_at": "2025-04-18T14:31:55.000000Z"
+      },
+      {
+        "id": 96674,
+        "question_id": "24176",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "48 m",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:31:55.000000Z",
+        "updated_at": "2025-04-18T14:31:55.000000Z"
+      },
+      {
+        "id": 96675,
+        "question_id": "24176",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "60 m",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:31:55.000000Z",
+        "updated_at": "2025-04-18T14:31:55.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24074,
+      "question_id": "24176",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3072",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "253",
+      "topic_id": "328",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T14:31:55.000000Z",
+      "updated_at": "2025-04-18T14:31:55.000000Z"
+    }
+  }
+]

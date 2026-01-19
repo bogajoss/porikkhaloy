@@ -1,0 +1,156 @@
+[
+  {
+    "id": 82712,
+    "title": "রংপুরে নূরলদীন একদিন ডাক দিয়েছিল?-",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T06:09:32.000000Z",
+    "updated_at": "2025-12-28T06:09:32.000000Z",
+    "tags": "89,91,98,61",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330956,
+        "question_id": "82712",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "১১৯৮ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330957,
+        "question_id": "82712",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "১১৮৯ সনে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> প্রশ্নে উল্লেখিত চরণটি নূরলদীনের কথা মনে পড়ে যায় কবিতা থেকে নেয়া হয়েছে।  কবি বলেছেন-</p><p>নূরলদীনের বাড়ি রংপুরে যে ছিল, রংপুরে নূরলদীন একদিন ডাক দিয়েছিল ১১৮৯ সনে।</p>",
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330958,
+        "question_id": "82712",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "১৮৮৯ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330959,
+        "question_id": "82712",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "১৯১৮ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82595,
+      "question_id": "82712",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "263",
+      "lesson_id": "366",
+      "topic_id": "936",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T06:09:32.000000Z",
+      "updated_at": "2025-12-28T06:09:32.000000Z"
+    }
+  },
+  {
+    "id": 82712,
+    "title": "রংপুরে নূরলদীন একদিন ডাক দিয়েছিল?-",
+    "description": null,
+    "author_id": "51",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T06:09:32.000000Z",
+    "updated_at": "2025-12-28T06:09:32.000000Z",
+    "tags": "89,91,98,61",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 330956,
+        "question_id": "82712",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "১১৯৮ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330957,
+        "question_id": "82712",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "১১৮৯ সনে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p> প্রশ্নে উল্লেখিত চরণটি নূরলদীনের কথা মনে পড়ে যায় কবিতা থেকে নেয়া হয়েছে।  কবি বলেছেন-</p><p>নূরলদীনের বাড়ি রংপুরে যে ছিল, রংপুরে নূরলদীন একদিন ডাক দিয়েছিল ১১৮৯ সনে।</p>",
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330958,
+        "question_id": "82712",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "১৮৮৯ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      },
+      {
+        "id": 330959,
+        "question_id": "82712",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "১৯১৮ সনে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T06:09:32.000000Z",
+        "updated_at": "2025-12-28T06:09:32.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82595,
+      "question_id": "82712",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "263",
+      "lesson_id": "366",
+      "topic_id": "936",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T06:09:32.000000Z",
+      "updated_at": "2025-12-28T06:09:32.000000Z"
+    }
+  }
+]

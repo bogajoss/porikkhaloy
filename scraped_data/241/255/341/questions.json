@@ -1,0 +1,79 @@
+[
+  {
+    "id": 24305,
+    "title": "একটি পানিপূর্ন কুয়ার গভীরতা 10m এবং ব্যাস 1.5m. একটি পাম্প 25 মিনিটে কুয়াশুন্য করতে পারে। পাম্পটির ক্ষমতা কত?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T16:05:58.000000Z",
+    "updated_at": "2025-04-18T16:05:58.000000Z",
+    "tags": "81,54,91,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 97191,
+        "question_id": "24305",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "0.773 Hp",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2022-12-13/3fce3a6e-edea-4629-930f-c4d05e0d0706-image.png\"></p>",
+        "created_at": "2025-04-18T16:05:58.000000Z",
+        "updated_at": "2025-04-18T16:05:58.000000Z"
+      },
+      {
+        "id": 97192,
+        "question_id": "24305",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "1.543 Hp",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:05:58.000000Z",
+        "updated_at": "2025-04-18T16:05:58.000000Z"
+      },
+      {
+        "id": 97193,
+        "question_id": "24305",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "3.095Hp",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:05:58.000000Z",
+        "updated_at": "2025-04-18T16:05:58.000000Z"
+      },
+      {
+        "id": 97194,
+        "question_id": "24305",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "6.190 Hp",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:05:58.000000Z",
+        "updated_at": "2025-04-18T16:05:58.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24203,
+      "question_id": "24305",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3071",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "255",
+      "topic_id": "341",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T16:05:58.000000Z",
+      "updated_at": "2025-04-18T16:05:58.000000Z"
+    }
+  }
+]

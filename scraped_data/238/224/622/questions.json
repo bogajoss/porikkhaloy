@@ -1,0 +1,156 @@
+[
+  {
+    "id": 81284,
+    "title": "ফুসফুসসহ বায়ুথলী থাকে-",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-22T15:34:11.000000Z",
+    "updated_at": "2025-12-22T15:34:11.000000Z",
+    "tags": "89,109,51",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 324786,
+        "question_id": "81284",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হাঙ্গর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324787,
+        "question_id": "81284",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "গেছোব্যাঙ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324788,
+        "question_id": "81284",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "তিমিতে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324789,
+        "question_id": "81284",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "পাখিতে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 81167,
+      "question_id": "81284",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "238",
+      "lesson_id": "224",
+      "topic_id": "622",
+      "sub_topic_id": null,
+      "created_at": "2025-12-22T15:34:11.000000Z",
+      "updated_at": "2025-12-22T15:34:11.000000Z"
+    }
+  },
+  {
+    "id": 81284,
+    "title": "ফুসফুসসহ বায়ুথলী থাকে-",
+    "description": null,
+    "author_id": "40",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-22T15:34:11.000000Z",
+    "updated_at": "2025-12-22T15:34:11.000000Z",
+    "tags": "89,109,51",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 324786,
+        "question_id": "81284",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "হাঙ্গর",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324787,
+        "question_id": "81284",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "গেছোব্যাঙ",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324788,
+        "question_id": "81284",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "তিমিতে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      },
+      {
+        "id": 324789,
+        "question_id": "81284",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "পাখিতে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-22T15:34:11.000000Z",
+        "updated_at": "2025-12-22T15:34:11.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 81167,
+      "question_id": "81284",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "238",
+      "lesson_id": "224",
+      "topic_id": "622",
+      "sub_topic_id": null,
+      "created_at": "2025-12-22T15:34:11.000000Z",
+      "updated_at": "2025-12-22T15:34:11.000000Z"
+    }
+  }
+]

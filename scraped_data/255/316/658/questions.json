@@ -1,0 +1,79 @@
+[
+  {
+    "id": 19982,
+    "title": "বিশ্ব স্বাস্থ্য সংস্থা কর্তৃক কালাজ্বর নির্মূল করার ক্ষেত্রে বাংলাদেশ প্রথম দেশ হিসেবে স্বীকৃতি লাভ করে কোন তারিখে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-10T15:15:54.000000Z",
+    "updated_at": "2025-04-10T15:15:54.000000Z",
+    "tags": "64,63",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 79748,
+        "question_id": "19982",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "৩০ নভেম্বর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T15:15:54.000000Z",
+        "updated_at": "2025-04-10T15:15:54.000000Z"
+      },
+      {
+        "id": 79749,
+        "question_id": "19982",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "৩১ অক্টোবর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>বাংলাদেশ বিশ্বের প্রথম দেশ হিসেবে কালাজ্বর নির্মূলের স্বীকৃতি পায় ২০২৩ সালের ৩১ অক্টোবর। ভারতের দিল্লীতে অনুষ্ঠিত WHO এর আঞ্চলিক সম্মেলন থেকে এ ঘোষণা দেওয়া হয়। এই সম্মেলনে প্রধানমন্ত্রী শেখ হাসিনার কন্যা সায়মা ওয়াজেদ পুতুল WHO এর আঞ্চলিক পরিচালক হিসেবে দায়িত্ব পান। উদ্বোখ্য যে, এর পূর্বে বাংলাদেশ ফাইলেরিয়া ও পোলিও নির্মূলের স্বীকৃতি পেয়েছিল।</p>",
+        "created_at": "2025-04-10T15:15:54.000000Z",
+        "updated_at": "2025-04-10T15:15:54.000000Z"
+      },
+      {
+        "id": 79750,
+        "question_id": "19982",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "৩০ সেপ্টেম্বর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T15:15:54.000000Z",
+        "updated_at": "2025-04-10T15:15:54.000000Z"
+      },
+      {
+        "id": 79751,
+        "question_id": "19982",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "০১ নভেম্বর ২০২৩",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-10T15:15:54.000000Z",
+        "updated_at": "2025-04-10T15:15:54.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 19880,
+      "question_id": "19982",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "316",
+      "topic_id": "658",
+      "sub_topic_id": null,
+      "created_at": "2025-04-10T15:15:54.000000Z",
+      "updated_at": "2025-04-10T15:15:54.000000Z"
+    }
+  }
+]

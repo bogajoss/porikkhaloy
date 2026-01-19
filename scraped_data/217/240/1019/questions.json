@@ -1,0 +1,178 @@
+[
+  {
+    "id": 82836,
+    "title": "<p>কত সালে সুন্দরবনকে বিশ্ব ঐতিহ্যের অংশ বলে ঘোষণা দিয়েছে?</p>",
+    "description": null,
+    "author_id": "52",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T09:56:16.000000Z",
+    "updated_at": "2025-12-28T09:56:16.000000Z",
+    "tags": "89,96,88,56,77,51",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 331486,
+        "question_id": "82836",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>1995 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331487,
+        "question_id": "82836",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>1996 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331488,
+        "question_id": "82836",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>1997 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331489,
+        "question_id": "82836",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>1998 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331490,
+        "question_id": "82836",
+        "mcq_option_serial": "5",
+        "mcq_question_text": "1999 সালে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82719,
+      "question_id": "82836",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "217",
+      "lesson_id": "240",
+      "topic_id": "1019",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T09:56:16.000000Z",
+      "updated_at": "2025-12-28T09:56:16.000000Z"
+    }
+  },
+  {
+    "id": 82836,
+    "title": "<p>কত সালে সুন্দরবনকে বিশ্ব ঐতিহ্যের অংশ বলে ঘোষণা দিয়েছে?</p>",
+    "description": null,
+    "author_id": "52",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "1",
+    "created_at": "2025-12-28T09:56:16.000000Z",
+    "updated_at": "2025-12-28T09:56:16.000000Z",
+    "tags": "89,96,88,56,77,51",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 331486,
+        "question_id": "82836",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "<p>1995 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331487,
+        "question_id": "82836",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "<p>1996 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331488,
+        "question_id": "82836",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "<p>1997 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331489,
+        "question_id": "82836",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "<p>1998 সালে</p>",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      },
+      {
+        "id": 331490,
+        "question_id": "82836",
+        "mcq_option_serial": "5",
+        "mcq_question_text": "1999 সালে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-12-28T09:56:16.000000Z",
+        "updated_at": "2025-12-28T09:56:16.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 82719,
+      "question_id": "82836",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3058",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "217",
+      "lesson_id": "240",
+      "topic_id": "1019",
+      "sub_topic_id": null,
+      "created_at": "2025-12-28T09:56:16.000000Z",
+      "updated_at": "2025-12-28T09:56:16.000000Z"
+    }
+  }
+]

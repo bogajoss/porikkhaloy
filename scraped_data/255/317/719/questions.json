@@ -1,0 +1,79 @@
+[
+  {
+    "id": 18756,
+    "title": "পাকিস্তান ও আফগানিস্তানের মধ্যে যে আন্তর্জাতিক সীমানা চিহ্নিতকরণ রেখা আছে সেটির নাম-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-08T16:58:27.000000Z",
+    "updated_at": "2025-04-08T16:58:27.000000Z",
+    "tags": "64,46",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 74825,
+        "question_id": "18756",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "তালেবান লাইন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:58:27.000000Z",
+        "updated_at": "2025-04-08T16:58:27.000000Z"
+      },
+      {
+        "id": 74826,
+        "question_id": "18756",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "ম্যাকমোহন লাইন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:58:27.000000Z",
+        "updated_at": "2025-04-08T16:58:27.000000Z"
+      },
+      {
+        "id": 74827,
+        "question_id": "18756",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "র‍্যাডক্লিক লাইন",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-08T16:58:27.000000Z",
+        "updated_at": "2025-04-08T16:58:27.000000Z"
+      },
+      {
+        "id": 74828,
+        "question_id": "18756",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ডুরাল্ড লাইন",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "ডুরান্ড লাইন আফগানিস্তান-পাকিস্তান সীমান্ত গঠন করে।  ভারতীয় সিভিল সার্ভিসের একজন ব্রিটিশ কূটনীতিক মর্টিমার ডুরান্ড এবং আফগান আমীর আবদুর রহমান খান তাদের নিজ নিজ ক্ষেত্রের সীমা নির্ধারণের জন্য 1893 সালে ব্রিটিশ ভারত এবং আফগানিস্তানের আমিরাতের মধ্যে আন্তর্জাতিক সীমানা হিসেবে ডুরান্ড লাইন প্রতিষ্ঠিত করেছিলেন।",
+        "created_at": "2025-04-08T16:58:27.000000Z",
+        "updated_at": "2025-04-08T16:58:27.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 18654,
+      "question_id": "18756",
+      "section_id": "221",
+      "exam_type_id": "1068",
+      "exam_sub_type_id": null,
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "255",
+      "lesson_id": "317",
+      "topic_id": "719",
+      "sub_topic_id": null,
+      "created_at": "2025-04-08T16:58:27.000000Z",
+      "updated_at": "2025-04-08T16:58:27.000000Z"
+    }
+  }
+]

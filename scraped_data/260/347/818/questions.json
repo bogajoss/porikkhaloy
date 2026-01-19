@@ -1,0 +1,79 @@
+[
+  {
+    "id": 22193,
+    "title": "x=a বিন্দুতে f(x) ক্রমবর্ধমন হবে যদি-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-15T10:43:38.000000Z",
+    "updated_at": "2025-04-15T10:43:38.000000Z",
+    "tags": "71,58,91",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 88709,
+        "question_id": "22193",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "f'(a)=0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T10:43:38.000000Z",
+        "updated_at": "2025-04-15T10:43:38.000000Z"
+      },
+      {
+        "id": 88710,
+        "question_id": "22193",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "f'(a)>0",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2021-06-04%2F60826ff7-1112-4f8c-a94f-6127737e18d4-image.png\"></p>",
+        "created_at": "2025-04-15T10:43:38.000000Z",
+        "updated_at": "2025-04-15T10:43:38.000000Z"
+      },
+      {
+        "id": 88711,
+        "question_id": "22193",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "f'(a)<0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T10:43:38.000000Z",
+        "updated_at": "2025-04-15T10:43:38.000000Z"
+      },
+      {
+        "id": 88712,
+        "question_id": "22193",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "f'(a)≠0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-15T10:43:38.000000Z",
+        "updated_at": "2025-04-15T10:43:38.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 22091,
+      "question_id": "22193",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3064",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "260",
+      "lesson_id": "347",
+      "topic_id": "818",
+      "sub_topic_id": "214",
+      "created_at": "2025-04-15T10:43:38.000000Z",
+      "updated_at": "2025-04-15T10:43:38.000000Z"
+    }
+  }
+]

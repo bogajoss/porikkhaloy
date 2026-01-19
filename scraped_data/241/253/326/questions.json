@@ -1,0 +1,156 @@
+[
+  {
+    "id": 45512,
+    "title": "<p>কোন বস্তুর গতি ও লেখচিত্র দ্বারা প্রকাশিত হলে তার ত্বরণ a কত?</p><p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-15/3e078efd-9428-4f64-b222-062a602762e5-AAp-3.png\" style=\"width: 159px;\"></p>",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-02T10:56:55.000000Z",
+    "updated_at": "2025-07-02T10:56:55.000000Z",
+    "tags": "88,51,93",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 181835,
+        "question_id": "45512",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "a<0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:56:55.000000Z",
+        "updated_at": "2025-07-02T10:56:55.000000Z"
+      },
+      {
+        "id": 181836,
+        "question_id": "45512",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "a=0",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": null,
+        "created_at": "2025-07-02T10:56:55.000000Z",
+        "updated_at": "2025-07-02T10:56:55.000000Z"
+      },
+      {
+        "id": 181837,
+        "question_id": "45512",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "a>0",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:56:55.000000Z",
+        "updated_at": "2025-07-02T10:56:55.000000Z"
+      },
+      {
+        "id": 181838,
+        "question_id": "45512",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "ভর জানতে হবে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:56:55.000000Z",
+        "updated_at": "2025-07-02T10:56:55.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 45408,
+      "question_id": "45512",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "253",
+      "topic_id": "326",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-02T10:56:55.000000Z",
+      "updated_at": "2025-07-02T10:56:55.000000Z"
+    }
+  },
+  {
+    "id": 45510,
+    "title": "100 dyne বল 10 gm ভরের একটি বস্তুর উপর 5 সেকেন্ড কাজ করলো। পরের 10 সেকেন্ডে বস্তুটি কি পরিমান দুরত্ব অতিক্রম করবে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-07-02T10:55:46.000000Z",
+    "updated_at": "2025-07-02T10:55:46.000000Z",
+    "tags": "88,50,93,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 181827,
+        "question_id": "45510",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "500 cm",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2023-06-13/c22903cc-c34e-4e71-8d60-7cf6b164051b-image.png\"></p>",
+        "created_at": "2025-07-02T10:55:46.000000Z",
+        "updated_at": "2025-07-02T10:55:46.000000Z"
+      },
+      {
+        "id": 181828,
+        "question_id": "45510",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "250 cm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:55:46.000000Z",
+        "updated_at": "2025-07-02T10:55:46.000000Z"
+      },
+      {
+        "id": 181829,
+        "question_id": "45510",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "150 cm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:55:46.000000Z",
+        "updated_at": "2025-07-02T10:55:46.000000Z"
+      },
+      {
+        "id": 181830,
+        "question_id": "45510",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "100 cm",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-07-02T10:55:46.000000Z",
+        "updated_at": "2025-07-02T10:55:46.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 45406,
+      "question_id": "45510",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3056",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "253",
+      "topic_id": "326",
+      "sub_topic_id": "214",
+      "created_at": "2025-07-02T10:55:46.000000Z",
+      "updated_at": "2025-07-02T10:55:46.000000Z"
+    }
+  }
+]

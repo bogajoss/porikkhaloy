@@ -1,0 +1,156 @@
+[
+  {
+    "id": 24318,
+    "title": "পৃথিবীর ব্যাসার্ধ হঠাৎ অর্ধেক হয়ে গেলে দিনের সময়কাল হবে-",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T16:19:21.000000Z",
+    "updated_at": "2025-04-18T16:19:21.000000Z",
+    "tags": "81,54,91,103",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 97243,
+        "question_id": "24318",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "6 hours",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p><img src=\"https://testmozusercontent.com/ugc/2022-12-13/5b7491a6-0127-48f4-9f29-dec895e53079-image.png\"></p>",
+        "created_at": "2025-04-18T16:19:21.000000Z",
+        "updated_at": "2025-04-18T16:19:21.000000Z"
+      },
+      {
+        "id": 97244,
+        "question_id": "24318",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "12 hours",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:19:21.000000Z",
+        "updated_at": "2025-04-18T16:19:21.000000Z"
+      },
+      {
+        "id": 97245,
+        "question_id": "24318",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "18 hours",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:19:21.000000Z",
+        "updated_at": "2025-04-18T16:19:21.000000Z"
+      },
+      {
+        "id": 97246,
+        "question_id": "24318",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "None",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T16:19:21.000000Z",
+        "updated_at": "2025-04-18T16:19:21.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24216,
+      "question_id": "24318",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3071",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "256",
+      "topic_id": "343",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T16:19:21.000000Z",
+      "updated_at": "2025-04-18T16:19:21.000000Z"
+    }
+  },
+  {
+    "id": 24198,
+    "title": "g এর মান কোথায় শুন্য হবে?",
+    "description": null,
+    "author_id": "0",
+    "is_paid": "0",
+    "is_featured": "0",
+    "type": "mcq",
+    "mark": "1.00",
+    "status": "0",
+    "created_at": "2025-04-18T14:52:28.000000Z",
+    "updated_at": "2025-04-18T14:52:28.000000Z",
+    "tags": "82,54,91,104",
+    "creative_questions": [],
+    "mcq_questions": [
+      {
+        "id": 96760,
+        "question_id": "24198",
+        "mcq_option_serial": "1",
+        "mcq_question_text": "ক্রান্তীয় অঞ্চলে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:52:28.000000Z",
+        "updated_at": "2025-04-18T14:52:28.000000Z"
+      },
+      {
+        "id": 96761,
+        "question_id": "24198",
+        "mcq_option_serial": "2",
+        "mcq_question_text": "মেরু অঞ্চলে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:52:28.000000Z",
+        "updated_at": "2025-04-18T14:52:28.000000Z"
+      },
+      {
+        "id": 96762,
+        "question_id": "24198",
+        "mcq_option_serial": "3",
+        "mcq_question_text": "বিষুব অঞ্চলে",
+        "mcq_images": null,
+        "is_correct": "0",
+        "description": null,
+        "created_at": "2025-04-18T14:52:28.000000Z",
+        "updated_at": "2025-04-18T14:52:28.000000Z"
+      },
+      {
+        "id": 96763,
+        "question_id": "24198",
+        "mcq_option_serial": "4",
+        "mcq_question_text": "পৃখিবীর কেন্দ্রে",
+        "mcq_images": null,
+        "is_correct": "1",
+        "description": "<p>g হল অভিকর্ষজ ত্বরণ, যা পৃথিবীর কেন্দ্র থেকে কোন বস্তুর দূরত্বের উপর নির্ভর করে। পৃথিবীর কেন্দ্রে, বস্তুর দূরত্ব পৃথিবীর কেন্দ্র থেকে শূন্য হয়। তাই, সেখানে g এর মানও শূন্য হয়।</p><p>পৃথিবীর কেন্দ্র ছাড়া অন্য কোথাও g এর মান শূন্য হয় না। ক্রান্তীয় অঞ্চলে, মেরু অঞ্চলে, বা বিষুব অঞ্চলে g এর মান প্রায় একই থাকে।</p>",
+        "created_at": "2025-04-18T14:52:28.000000Z",
+        "updated_at": "2025-04-18T14:52:28.000000Z"
+      }
+    ],
+    "attachable": {
+      "id": 24096,
+      "question_id": "24198",
+      "section_id": "221",
+      "exam_type_id": "1070",
+      "exam_sub_type_id": "3072",
+      "exam_paper_id": null,
+      "group_id": "4",
+      "level_id": "19",
+      "subject_id": "241",
+      "lesson_id": "256",
+      "topic_id": "343",
+      "sub_topic_id": null,
+      "created_at": "2025-04-18T14:52:28.000000Z",
+      "updated_at": "2025-04-18T14:52:28.000000Z"
+    }
+  }
+]
